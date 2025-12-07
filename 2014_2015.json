@@ -1,0 +1,713 @@
+[
+ 
+ {
+  "type": "pageInfo",
+  "kind": "subjective",
+  "course_title": "General Biohemistry I",
+  "code": "BCH 210.1",
+  "session": "2014/2015",
+  "topics": [
+   "Biochemistry",
+   "Carbohydrates",
+   "Amino Acids and Proteins",
+   "Enzymes and Kinetics",
+   "Vitamins and Minerals",
+   "Acid-Base Chemistry and Buffers"
+  ],
+  "time": "90"
+ },
+ 
+ 
+ {
+  "type": "Instruction",
+  "content": "Answer 5 Questions In All, Selecting At Least One From Each Section"
+ },
+ 
+
+ {
+  "type": "heading",
+  "heading": "Section A"
+ },
+ 
+
+  {
+    "type": "Question",
+    "name": "Question 1a)i",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Write on carbohydrate with respect to Definition and occurrence",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbohydrates are organic compounds made of carbon, hydrogen, and oxygen with general formula Cₓ(H₂O)ᵧ.  <br>  They occur in plants (starch, cellulose), animals (glycogen), and microorganisms."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Carbohydrates</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Part A: Carbohydrate Basics</strong><br>\n    <strong>Definition:</strong> Carbohydrates are like the body's fuel - they're made of carbon, hydrogen, and oxygen. Think of them as \"carbon + water\" compounds.<br>\n    <strong>Occurrence:</strong> Found everywhere! Plants store them as starch, animals as glycogen, and they form structural parts like cellulose in plant cell walls.<br>\n"
+    }
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 1a)ii",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Write on carbohydrate with respect to Functions",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": " <ol>  <li>They serve as energy source (4 kcal/g)</li> <li>They provide structural support (cellulose)</li> <li>They help store energy (glycogen/starch)</li> <li>They help in cell recognition.</li>   </ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Carbohydrates</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Part A: Carbohydrate Basics</strong><br>\n    <strong>Functions:</strong>  <ul>  <li>Energy source: Carbohydrates provide 4 kilocalories of energy per gram when fully metabolized. They're the main energy source for man.</li>    <li>Structural support: Certain carbohydrates provide physical strength and rigidity, mainly in plants and some organisms.</li>  <li>Energy storage: Organisms store carbohydrates by polymerizing glucose into compact, insoluble storage forms that are released when needed. Glycogen in animals and starch in plants.</li>  <li>Cell recognition: Carbohydrate chains act as unique 'ID tags' or markers on cell membranes, enabling cells to recognize and interact with each other.</li>  </ul>   <br>\n"
+    }
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 1a)iii",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Write on carbohydrate with respect to Classification",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<ol> <li>Monosaccharides: having just 1 unit</li> <li>Oligosaccharides: having 2-10 units</li> <li>Polysaccharides: having more than 10 units.</li>  </ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Carbohydrates</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Part A: Carbohydrate Basics</strong><br>\n    <strong>Classification:</strong> <ol> <li>Monosaccharides: 'Mono' is greek for 'one'. These are the simplest sugars. They can't be broken down further. Examples are Glucose, Frucose and Galactose.</li> <li>Oligosaccharides: 'Oligo' is greek for 'few'. These are short chains of monosaccharride units ranging from 2-10. Examples are Sucrose, Maltose and Lactose.</li> <li>Polysaccharides: 'Poly' is greek for 'many'. These are long chain monosaccharide units having more than 10 units. Examples are Starch, Glycogen and Cellulose.\n</ol>"
+    }
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 1b)i",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Give four (4) examples of Aldoses (including structures)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N1BIa.png'  alt ='Image of the Aldose Glyceraldehyde.'/>  <b> Glyceraldehyde.</b>    <br>    <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N1BIa2.png'  alt ='Image of the Aldose Glucose'/>  <b> Glucose.</b>  <br>  <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N1BIa3.png'  alt ='Image of the Aldose Mannose.'/>  <b> Mannose.</b>  <br>  <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N1BIa4.jpg'  alt ='Image of the Aldose Galactose.'/>  <b> Galactose.</b>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Carbohydrates</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Part B: Sugar Examples</strong><br>\n    <strong>Aldoses</strong> have an aldehyde group at the end:\n    <ul>\n      <li>Glucose - main blood sugar</li>\n      <li>Galactose - milk sugar component</li>\n      <li>Mannose - found in fruits</li>\n      <li>Glyceraldehyde - the smallest aldose</li>\n    </ul>\n"
+    }
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 1b)ii",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Give four (4) examples of Ketoses (including structures)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N1BIIa.png'  alt ='Image of the Ketose Dihyroxyactone'/>  <b> Dihyroxyactone.</b>    <br>    <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N1BIIa2.png'  alt ='Image of the Ketose Ribulose'/>  <b> Ribulose.</b>  <br>  <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N1BIIa3.png'  alt ='Image of the Ketose Fructose.'/>  <b> Fructose.</b>    <br>    <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N1BIIa4.png'  alt ='Image of the Ketose Xylulose.'/>  <b> Xylulose.</b>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Carbohydrates</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Part B: Sugar Examples</strong><br>\n    <strong>Ketoses</strong> have a ketone group in the middle:\n    <ul>\n      <li>Fructose - fruit sugar</li>\n      <li>Ribulose - photosynthesis intermediate</li>\n      <li>Xylulose - metabolic intermediate</li>\n      <li>Dihydroxyacetone - the simplest ketose</li>\n    </ul>\n"
+    }
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 1c)",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "What are epimers? Give two (2) examples (show structures).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "C) Epimers are sugars differing at only one chiral carbon.    <br><br>\n    <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N1Ca.png'  alt ='Image of the Epimers: Glucose & Mannose (C2 epimers).'/>  <b> Example 1: Glucose & Mannose (C2 epimers).</b>  <br>  <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N1Ca2.png'  alt ='Image of the Epimers: Glucose & galactose (C4 epimers).'/>  <b> Example 2: Glucose & Galactose (C4 epimers).</b>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Carbohydrates</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Part C: Epimers Explained</strong><br>\n    Epimers are like identical twins with one small difference - they're sugars that differ at only ONE carbon position.<br>\n    <strong>Example 1:</strong> Glucose and Mannose are C2 epimers - different only at carbon 2<br>\n    <strong>Example 2:</strong> Glucose and Galactose are C4 epimers - different only at carbon 4\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Points:</strong> Carbohydrates are essential energy sources classified by size. Aldoses have end aldehyde groups, ketoses have middle ketone groups. Epimers differ at only one carbon position.\n  </div>\n</div>"
+    }
+  },
+
+ 
+
+  {
+    "type": "Question",
+    "name": "Question 2a)",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Mention 3 physical and chemical properties of monosaccharides.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Physical: <ol><li>They have Sweet taste</li> <li>They are Soluble in water</li> <li>They are Crystalline solids.</li></ol> <br>  Chemical: <ol><li>They have Reducing properties</li> <li>They form glycosidic bonds</li> <li>They undergo mutarotation.</li></ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Carbohydrate Properties and Types</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Part A: Monosaccharide Properties</strong><br>\n    <strong>Physical Properties:</strong>\n    <ul>\n      <li>Sweet taste - most sugars taste sweet</li>\n      <li>Water soluble - they dissolve easily in water</li>\n      <li>Crystalline solids - they form nice crystals</li>\n    </ul>\n    <strong>Chemical Properties:</strong>\n    <ul>\n      <li>Reducing properties - they can reduce other compounds (like in Benedict's test)</li>\n      <li>Form glycosidic bonds - by connecting to make larger carbohydrates</li>\n      <li>Mutarotation - change between its open-chain form and its ring form in solution till equilibrium is attained</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n"
+    }
+  },
+
+
+  {
+    "type": "Question",
+    "name": "Question 2b)",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Give the structure of any 3 oligosaccharides.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N2Ba.png'  alt ='Image of Sucrose.'/>  <b> Sucrose.</b>    <br>    <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N2Ba2.png'  alt ='Image of Lactose'/>  <b> Lactose.</b>  <br>  <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N2Ba3.png'  alt ='Image of Maltose'/>  <b> Maltose.</b>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Carbohydrate Properties and Types</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Part B: Oligosaccharide Structures</strong><br>\n    Oligosaccharides are short sugar chains (2-10 units):\n    <ul>\n      <li><strong>Sucrose:</strong> Table sugar = Glucose + Fructose. It is formed trough a glycosidic bond between the C1 atom of Glucose and the C2 atom of Fructose. A molecule of water is eliminated in the process.</li>\n      <li><strong>Lactose:</strong> Milk sugar = Galactose + Glucose. It is formed trough a glycosidic bond between the C1 atom of Galactose and the C4 atom of Glucose. A molecule of water is eliminated in the process.</li>\n      <li><strong>Maltose:</strong> Malt sugar = Glucose + Glucose. It is formed trough a glycosidic bond between the C1 atom of the first Glucose and the C4 atom of the second Glucose. A molecule of water is eliminated in the process.</li>\n    </ul>\n    Think of them as sugar \"dimers\" - two sugar units joined together.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n"
+    }
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 2c)i",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "What are polysaccharides?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polysaccharides are long chains of monosaccharides. There are two types of polysaccharides: Homopolysaccharides and Heteropolysaccharides."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Carbohydrate Properties and Types</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Part C: Polysaccharides</strong><br>\n    Polysaccharides are long sugar chains (>10 units) - like trains with many connected cars.<br>\n"
+    }
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 2c)ii",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Give two (2) examples of storage polysaccharide",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<ol><li>Starch (in plants)</li>  <li>Glycogen (in animals)</li> or<br>  <li>Inulin (in Grasses)</li>  <li>Galactogen (in Snails).</li></ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Carbohydrate Properties and Types</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>Storage Polysaccharides:</strong>\n    <ul>\n      <li>Starch - This is the main energy reserve in plants (e.g: in potatoes, roots and grains)</li>\n      <li>Glycogen - This is the major short-term energy reserve in animals and fungi (e.g: in liver cells and muscle cells)</li>\n    <li>Inulin - This is an alternative energy reserve in plants (particularly grasses and Onions)</li>\n    <li>Glycogen - This is the energy reserve in Non-vertebrates (e.g: in snails)</li>\n    </ul>\n"
+    }
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 2c)iii",
+    "topic": ["Biochemistry", "Carbohydrates"],
+    "Question": {
+      "content": "Give one example of a structural polysaccharide.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<ol><li>Cellulose (in plant cell walls)</li> or<br> <li>Chitin(in exoskeleton of insects).</li></ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Carbohydrate Properties and Types</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Part C: Polysaccharides</strong><br>\n    <strong>Structural Polysaccharide:</strong>\n    <ul>\n      <li>Cellulose - It help makes plant cell walls strong</li>\n      <li>Chitin - It help makes exoskeletons of arthropods (like insects and crustaceans) strong</li>\n    </ul>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Summary:</strong> Monosaccharides have sweet taste and reducing properties. Oligosaccharides are short sugar chains. Polysaccharides are long chains used for storage (starch, glycogen) or structure (cellulose).\n  </div>\n</div>"
+    }
+  },
+
+ 
+  {
+  "type": "heading",
+  "heading": "Section B"
+  },
+
+ 
+  {
+    "type": "Question",
+    "name": "Question 3a",
+    "topic": ["Nutrition", "Vitamins"],
+    "Question": {
+      "content": "Discuss the sources, functions and deficiency symptoms of Vitamin A",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sources: <ol><li>Carrots</li> <li>Sweet potatoes</li> <li>Spinach</li> <li>Liver.</li></ol>  <br>  Functions: <ol><li>Boosting Vision</li> <li>Fueling the immune system</li> <li>Maintaining skin health</li> <li>Essential for growth.</li></ol> <br>  Deficiency symptoms: <ol><li>Night blindness</li> <li>Dry eyes</li> <li>Skin problems</li> <li>Increased infections.</li></ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Vitamin A - The Vision Vitamin</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sources:</strong><br>\n    Orange and yellow foods! Carrots, sweet potatoes, pumpkins, spinach, kale, and liver. Think \"orange for vision\" - these foods are rich in beta-carotene that your body converts to Vitamin A.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Functions:</strong><br>\n    • <strong>Vision:</strong> Helps you see in dim light (like a car's headlights at night)<br>\n    • <strong>Immune System:</strong> Fights off infections like a bodyguard<br>\n    • <strong>Skin Health:</strong> Keeps skin smooth and healthy<br>\n    • <strong>Growth:</strong> Important for children's growth and development\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Deficiency Symptoms:</strong><br>\n    • <strong>Night Blindness:</strong> Can't see well in dim light (like walking into a dark room)<br>\n    • <strong>Dry Eyes:</strong> Eyes feel gritty and may develop spots<br>\n    • <strong>Skin Problems:</strong> Dry, rough skin that looks like goosebumps<br>\n    • <strong>More Infections:</strong> Get sick more often because immune system is weak\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Remember:</strong> Eat your oranges and veggies! They help you see in the dark and fight off germs.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b",
+    "topic": ["Nutrition", "Vitamins"],
+    "Question": {
+      "content": "Discuss the sources, functions and deficiency symptoms of Vitamin C",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sources: <ol><li>Citrus fruits</li> <li>Strawberries</li> <li>Bell peppers.</li></ol>  <br>  Functions: <ol><li>Aids Collagen production</li> <li>Provides Antioxidants</li> <li>Aids Iron absorption</li> <li>Supports the Immune system.</li></ol>  <br>  Deficiency symptoms: <ol><li>Scurvy</li> <li>Bleeding gums</li> <li>Slow wound healing</li> <li>Fatigue</li></ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Vitamin C - The Immunity Vitamin</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sources:</strong><br>\n    Fresh fruits and vegetables! Oranges, lemons, strawberries, kiwi, bell peppers, broccoli, and tomatoes. Think \"fresh and colorful\" P.S: Cooking destroys Vitamin C.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Functions:</strong><br>\n    • <strong>Collagen Production:</strong> Makes glue that holds your body together (skin, bones, blood vessels)<br>\n    • <strong>Antioxidant:</strong> Protects cells from damage like rust on metal<br>\n    • <strong>Iron Absorption:</strong> Helps your body use iron from plant foods<br>\n    • <strong>Immune Support:</strong> Helps white blood cells fight infections\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Deficiency Symptoms (Scurvy):</strong><br>\n   <p>The lack of Vitamin C for prodution of collagen—the main structural protein in our skin, blood vessels, bones, and gums leads to all these:</p>  • <strong>Bleeding Gums:</strong> Gums swell and bleed easily<br>\n    • <strong>Slow Healing:</strong> Cuts and bruises take forever to heal<br>\n    • <strong>Fatigue:</strong> Feeling tired all the time<br>\n    • <strong>Joint Pain and Rough Skin</strong>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Remember:</strong> Eat fresh fruits daily! Sailors used to get scurvy on long voyages until they discovered citrus fruits prevent it.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3c",
+    "topic": ["Nutrition", "Minerals"],
+    "Question": {
+      "content": "Discuss the sources, functions and deficiency symptoms of Calcium",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sources: <ol><li>Dairy products</li> <li>Leafy greens</li> <li>Fortified foods.</li></ol>  <br>  Functions: <ol><li>Provides Bone strength</li> <li>Sustains Tooth health</li> <li>Allows for smooth Muscle contraction</li> <li>Helps Nerves function properly.</li> <li>Allows for Blood clotting</li></ol>  <br>  Deficiency symptoms: <ol><li>Osteoporosis</li> <li>Muscle cramps</li> <li>Poor growth.</li></ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calcium - The Bone Builder</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sources:</strong><br>\n    Dairy foods are the best source! Milk, cheese, yogurt. Also found in leafy greens (broccoli, kale), fortified foods (orange juice, cereal), and fish with edible bones (sardines).\n  <p><bold>P.S:</bold> Fortified foods are products with added vitamins, minerals, or other nutrients (like iodine, folic acid, Vitamin D, Iron) to boost nutritional value</p>   </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Functions:</strong><br>\n    • <strong>Bone Strength:</strong> Makes bones hard and strong like concrete in buildings<br>\n    • <strong>Tooth Health:</strong> Keeps teeth strong and cavity-resistant<br>\n    • <strong>Muscle Contraction:</strong> Helps muscles contract and relax properly<br>\n    • <strong>Nerve Signals:</strong> Helps nerves send messages throughout your body<br>\n    • <strong>Blood Clotting:</strong> Helps blood clot when you get cut\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Deficiency Symptoms:</strong><br>\n    • <strong>Osteoporosis:</strong> Brittle bones that break easily (common in older adults)<br>\n    • <strong>Muscle Cramps:</strong> Painful muscle spasms, especially at night<br>\n    • <strong>Poor Growth:</strong> Children don't grow to their full height potential<br>\n    • <strong>Dental Problems and Tingling Sensations</strong>  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Remember:</strong> Drink your milk! Calcium builds strong bones when you're young and keeps them strong when you're older.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3d",
+    "topic": ["Nutrition", "Minerals"],
+    "Question": {
+      "content": "Discuss the sources, functions and deficiency symptoms of Iron",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sources: <ol><li>Red meat</li> <li>Spinac</li> <li>Beans</li> <li>Fortified cereals.</li></ol>  <br>  Functions: <ol><li>Enables Oxygen transport</li> <li>Aids Energy production</li> <li>Supports Brain functions</li> <li>Boosts the Immune system</li></ol> <br>  Deficiency symptoms: <ol><li>Anemia</li> <li>Fatigue</li> <li>Pale skin</li> <li>Shortness of breath.</li></ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Iron - The Oxygen Carrier</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sources:</strong><br>\n    Two types: Heme iron (from animals) and non-heme iron (from plants). Best sources: red meat, poultry, fish, spinach, beans, lentils, fortified cereals, and dried fruits.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Functions:</strong><br>\n    • <strong>Oxygen Transport:</strong> Carries oxygen in red blood cells (hemoglobin) like delivery trucks<br>\n    • <strong>Energy Production:</strong> Helps make energy from food in your cells<br>\n    • <strong>Brain Function:</strong> Supports brain development and function<br>\n    • <strong>Immune System:</strong> Helps fight off infections\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Deficiency Symptoms (Anemia):</strong><br>\n   <p>Anaemia is the main deficiency symptom and leads to all these:</p>     • <strong>Fatigue:</strong> Extreme tiredness and weakness<br>\n    • <strong>Pale Skin:</strong> Skin loses its healthy pink color<br>\n    • <strong>Shortness of Breath:</strong> Get winded easily from simple activities<br>\n    • <strong>Dizziness, Cold Hands/Feet and Brittle Nails</strong><br>\n   </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Remember:</strong> Iron is like the delivery service for oxygen. Without enough iron, your body can't get enough oxygen, making you feel tired and weak.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4a",
+    "topic": ["Nutrition", "Vitamins"],
+    "Question": {
+      "content": "Discuss Lipoic acid in details",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lipoic acid is a universal antioxidant that helps convert food into energy, recycles other antioxidants, and protects against oxidative damage. It's both water and fat soluble."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lipoic Acid - The Universal Antioxidant</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Lipoic Acid?</strong><br>\n    Lipoic acid is a special antioxidant that works everywhere in your body because it dissolves in both water and fat. Think of it as an \"all-access pass\" antioxidant that can protect all parts of your cells.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Functions:</strong><br>\n    • <strong>Energy Production:</strong> Helps convert food into energy in your cells' power plants (mitochondria)<br>\n    • <strong>Antioxidant Recycling:</strong> Recharges other antioxidants like Vitamin C and E after they've done their job<br>\n    • <strong>Universal Protection:</strong> Works in both watery parts and fatty parts of cells<br>\n    • <strong>Blood Sugar Regulation:</strong> Helps improve insulin sensitivity\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why It's Special:</strong><br>\n    Most antioxidants work only in specific areas - either water-based or fat-based. Lipoic acid works everywhere! It's like having a security guard who can patrol both the building and the parking lot.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sources:</strong><br>\n    Your body makes small amounts, but you can also get it from: red meat, organ meats (liver, heart), spinach, broccoli, and tomatoes.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Point:</strong> Lipoic acid is the \"recycling champion\" of antioxidants - it helps other antioxidants work longer and harder throughout your entire body.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4b",
+    "topic": ["Nutrition", "Vitamins"],
+    "Question": {
+      "content": "Discuss Vitamin B12 in details",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vitamin B12 is essential for DNA synthesis, nerve function, and red blood cell formation. It's only found in animal products and deficiency can cause anemia and nerve damage."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Vitamin B12 - The Energy and Nerve Vitamin</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Vitamin B12?</strong><br>\n    Vitamin B12 is a water-soluble vitamin that's essential for making DNA, keeping nerves healthy, and producing red blood cells. It's the only vitamin that contains a metal (cobalt).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Functions:</strong><br>\n    • <strong>DNA Synthesis:</strong> Helps make new cells and genetic material<br>\n    • <strong>Nerve Health:</strong> Protects nerve cells with a fatty coating (myelin sheath)<br>\n    • <strong>Red Blood Cells:</strong> Prevents megaloblastic anemia (oversized, immature red blood cells)<br>\n    • <strong>Energy Production:</strong> Helps convert food into usable energy\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Important Fact:</strong><br>\n    Vitamin B12 is ONLY found in animal products! Plants cannot make B12. This is why vegetarians and especially vegans need to be careful about getting enough.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sources:</strong><br>\n    Meat, fish, poultry, eggs, dairy products. Fortified foods (some cereals, plant milks) for vegetarians.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Deficiency Symptoms:</strong><br>\n    • <strong>Fatigue and weakness</strong><br>\n    • <strong>Numbness or tingling in hands and feet</strong><br>\n    • <strong>Memory problems and confusion</strong><br>\n    • <strong>Difficulty walking and balance problems</strong><br>\n    • <strong>Pale or yellowish skin</strong>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Remember:</strong> B12 keeps your nerves healthy and your blood cells normal. Vegetarians need to pay special attention to getting enough through fortified foods or supplements.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4c",
+    "topic": ["Nutrition", "Minerals"],
+    "Question": {
+      "content": "Discuss Zinc in details",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zinc is essential for immune function, wound healing, enzyme activity, and taste perception. Deficiency causes impaired immunity, slow healing, and loss of taste."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Zinc - The Immune Mineral</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Zinc?</strong><br>\n    Zinc is an essential mineral that acts like a \"spark plug\" for over 300 enzymes in your body. It's crucial for immune function, healing, growth, and even your sense of taste and smell.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Functions:</strong><br>\n    • <strong>Immune Support:</strong> Helps white blood cells fight infections<br>\n    • <strong>Wound Healing:</strong> Essential for skin repair and cell growth<br>\n    • <strong>Enzyme Activity:</strong> Activates hundreds of enzymes (biological catalysts)<br>\n    • <strong>Taste and Smell:</strong> Needed for proper taste bud function<br>\n    • <strong>Growth and Development:</strong> Critical for children's growth\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sources:</strong><br>\n    Oysters (richest source!), red meat, poultry, beans, nuts, whole grains, and dairy products.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Deficiency Symptoms:</strong><br>\n    • <strong>Frequent infections</strong> (weakened immune system)<br>\n    • <strong>Slow wound healing</strong><br>\n    • <strong>Loss of taste and smell</strong><br>\n    • <strong>Hair loss</strong><br>\n    • <strong>Skin rashes and acne</strong><br>\n    • <strong>Poor growth in children</strong>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Remember:</strong> Zinc is your body's repair crew and infection fighter. It helps heal wounds, fight germs, and even lets you enjoy the taste of your food!\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4d",
+    "topic": ["Nutrition", "Minerals"],
+    "Question": {
+      "content": "Discuss Chromium in details",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chromium enhances insulin action, regulates blood sugar, and helps metabolize carbohydrates, fats, and proteins. It's important for blood sugar control."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Chromium - The Sugar Regulator</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Chromium?</strong><br>\n    Chromium is a trace mineral that works like a \"key helper\" for insulin - the hormone that controls your blood sugar levels. It helps insulin work more effectively.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Functions:</strong><br>\n    • <strong>Insulin Enhancement:</strong> Makes insulin work better at lowering blood sugar<br>\n    • <strong>Blood Sugar Control:</strong> Helps maintain stable blood sugar levels<br>\n    • <strong>Carbohydrate Metabolism:</strong> Helps your body use carbohydrates for energy<br>\n    • <strong>Fat and Protein Metabolism:</strong> Also involved in processing fats and proteins<br>\n    • <strong>Cholesterol Regulation:</strong> May help improve cholesterol levels\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How It Works:</strong><br>\n    Think of insulin as a key that unlocks your cells to let sugar in. Chromium is like the lubricant that makes the key work smoothly. Without enough chromium, the key gets stuck and sugar builds up in your blood.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Sources:</strong><br>\n    Broccoli, potatoes, whole grains, meat, brewer's yeast, and some spices.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Deficiency Symptoms:</strong><br>\n    • <strong>High blood sugar levels</strong><br>\n    • <strong>Increased insulin requirements</strong><br>\n    • <strong>Weight changes</strong><br>\n    • <strong>Fatigue</strong><br>\n    • <strong>Poor blood sugar control in diabetics</strong>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Remember:</strong> Chromium is insulin's best friend - it helps insulin do its job of controlling blood sugar levels effectively.\n  </div>\n</div>"
+    }
+  },
+
+
+  {
+  "type": "heading",
+  "heading": "Section C"
+  },
+
+
+  {
+    "type": "Question",
+    "name": "Question 5a",
+    "topic": ["Biochemistry", "Amino Acids"],
+    "Question": {
+      "content": "What are essential amino acids and list all of them with their structural formulae",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Essential amino acids cannot be made by the body and must come from food. <br> They include: Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan and Valine.    <br><br>\n   <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N5Aa.png'  alt ='Images of Leucine, Isoleucine, Valine, Methionine, Lysine and Phenylalanine.'/>  <b> Leucine, Isoleucine, Valine, Methionine, Lysine  and Phenylalanine.</b>   <br>    <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N5Aa2.png'  alt ='The image of tryptophan'/>  <b> Tryptophan</b>     <br>    <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N5Aa3.png'  alt ='The image of threonine'/>  <b> Threonine</b>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Essential Amino Acids - The Must-Have Building Blocks</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What Are Essential Amino Acids?</strong><br>\n    Think of essential amino acids as special LEGO blocks that your body CANNOT make itself. You have to get them ready-made from the food you eat. If you're missing even one, you can't build complete proteins!\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The 9 Essential Amino Acids:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>Remember this phrase:</strong> \"<strong>H</strong>is <strong>I</strong>sland <strong>L</strong>ooks <strong>L</strong>ovely <strong>M</strong>ore <strong>P</strong>eople <strong>T</strong>hrough <strong>T</strong>he <strong>V</strong>alley\"<br>\n      H - Histidine, I - Isoleucine, L - Leucine, L - Lysine, M - Methionine, P - Phenylalanine, T - Threonine, T - Tryptophan, V - Valine\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why Are They Essential?</strong><br>\n    Your body is like a factory that can make some amino acids from scratch, but these 9 are like special imported parts that you must get from outside. Without them, protein synthesis stops!\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Best Food Sources:</strong><br>\n    • <strong>Complete proteins:</strong> Meat, fish, eggs, dairy (contain all 9 essential amino acids)<br>\n    • <strong>Plant combinations:</strong> Beans + rice, hummus + pita bread (combine to provide all essentials)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Point:</strong> Your body needs all 9 essential amino acids from food to build proteins. They're called \"essential\" because your body can't make them - they must come from your diet.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5b",
+    "topic": ["Biochemistry", "Amino Acids"],
+    "Question": {
+      "content": "List the members of the pyruvate family of amino acids that are also essential amino acids",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The pyruvate family essential amino acids are: Valine, Leucine, Isoleucine (the branched-chain amino acids)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pyruvate Family Amino Acids</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is the Pyruvate Family?</strong><br>\n    Amino acids are grouped into families based on how they're made in the body. The pyruvate family comes from pyruvate - a key molecule in energy production that looks like this: CH₃COCOO⁻\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Pyruvate Family Essential Amino Acids:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0; text-align: center;'>\n      <strong>Valine, Leucine, Isoleucine</strong><br>\n      These three are known as the \"Branched-Chain Amino Acids\" (BCAAs)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why Are They Special?</strong><br>\n    • <strong>Muscle Fuel:</strong> BCAAs are unique because they can be used directly by muscles for energy<br>\n    • <strong>Exercise Recovery:</strong> Help repair and build muscle tissue after workouts<br>\n    • <strong>Branched Structure:</strong> Have side chains that look like tree branches (hence the name)<br>\n    • <strong>Popular Supplements:</strong> Often taken by athletes to support muscle growth and recovery\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Food Sources:</strong><br>\n    Meat, dairy products, eggs, and protein supplements are rich in these branched-chain amino acids.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Remember:</strong> Valine, Leucine, and Isoleucine are the three musketeers of the amino acid world - they come from pyruvate, are essential, and are super important for your muscles!\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6a)i",
+    "topic": ["Biochemistry", "Protein Structure"],
+    "Question": {
+      "content": "Explain the tertiary level of protein structure with suitable examples",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tertiary structure is the overall 3D folding of a single protein chain stabilized by various interactions.  <br>  Example: Myoglobin folds into a compact shape to store oxygen in muscles."
+    }, 
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Tertiary Structure - The 3D Shape</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Tertiary Structure?</strong><br>\n    Think of tertiary structure as the final 3D folding of a single protein chain. It's like taking a string of beads and folding it into a compact, functional shape that can do specific jobs in your body.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Forces That Hold It Together:</strong><br>\n    • <strong>Hydrophobic interactions:</strong> Water-hating parts hide inside<br>\n    • <strong>Hydrogen bonds:</strong> Weak attractions between different parts<br>\n    • <strong>Ionic bonds:</strong> Attraction between positive and negative charges<br>\n    • <strong>Disulfide bridges:</strong> Strong covalent bonds between sulfur atoms\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Perfect Example: Myoglobin</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      • <strong>Function:</strong> Stores oxygen in muscle cells<br>\n      • <strong>Structure:</strong> Single chain folded into a compact globular shape<br>\n      • <strong>Special Feature:</strong> Contains a heme group that binds oxygen<br>\n      • <strong>Why it works:</strong> The specific 3D shape creates a perfect pocket to hold oxygen\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Examples:</strong><br>\n    • <strong>Enzymes:</strong> Their 3D shape creates active sites where chemical reactions happen<br>\n    • <strong>Antibodies:</strong> Specific shapes recognize and bind to foreign invaders<br>\n    • <strong>Hormones:</strong> Shape determines which receptors they can activate\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Point:</strong> Tertiary structure is what gives each protein its unique 3D shape and specific function. The shape determines the job!\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6a)ii",
+    "topic": ["Biochemistry", "Protein Structure"],
+    "Question": {
+      "content": "Explain the quaternary level of protein structure with suitable examples",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quaternary structure involves multiple protein chains assembling together.  <br>  Example: Hemoglobin has 4 protein chains (2 alpha, 2 beta) that work together to carry oxygen in blood."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Quaternary Structure - The Protein Team</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is Quaternary Structure?</strong><br>\n    This is when multiple protein chains (called subunits) come together to work as a team. Think of it like several people joining hands to form a circle - each person is complete alone, but together they can do something special.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Perfect Example: Hemoglobin</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      • <strong>Structure:</strong> 4 protein chains - 2 alpha chains and 2 beta chains<br>\n      • <strong>Function:</strong> Carries oxygen in red blood cells<br>\n      • <strong>Teamwork:</strong> Each chain has a heme group that can bind one oxygen molecule<br>\n      • <strong>Cooperative binding:</strong> When one chain binds oxygen, it helps the others bind oxygen more easily\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Examples:</strong><br>\n    • <strong>DNA polymerase:</strong> Multiple subunits work together to copy DNA<br>\n    • <strong>Collagen:</strong> Three chains twisted together like rope for strength<br>\n    • <strong>Insulin receptor:</strong> Multiple subunits detect insulin and signal cells<br>\n    • <strong>Antibodies:</strong> Multiple chains form Y-shaped molecules\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why Have Quaternary Structure?</strong><br>\n    • <strong>Cooperative effects:</strong> Subunits can work together (like in hemoglobin)<br>\n    • <strong>Stability:</strong> Multiple chains can stabilize each other<br>\n    • <strong>Regulation:</strong> Easier to control activity with multiple parts<br>\n    • <strong>Versatility:</strong> Can create more complex functions\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Point:</strong> Quaternary structure is about teamwork - multiple protein chains working together to perform functions that single chains couldn't do alone.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6a)iii",
+    "topic": ["Biochemistry", "Protein Structure"],
+    "Question": {
+      "content": "A tetrapeptide contains four peptide bonds, true or false?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peptide Bonds in a Tetrapeptide</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Let's Count the Bonds:</strong><br>\n    A tetrapeptide has 4 amino acids connected together. Let's label them: A1 - A2 - A3 - A4\n    \n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0; text-align: center;'>\n      • Bond between A1-A2: 1st peptide bond<br>\n      • Bond between A2-A3: 2nd peptide bond<br>\n      • Bond between A3-A4: 3rd peptide bond<br>\n      <strong>Total: 3 peptide bonds</strong>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The General Rule:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0; text-align: center;'>\n      <strong>Number of peptide bonds = Number of amino acids - 1</strong>\n    </div>\n    So for a tetrapeptide (4 amino acids): 4 - 1 = 3 peptide bonds\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why This Pattern?</strong><br>\n    Think of it like connecting train cars. Each connection between cars is like a peptide bond:\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0; text-align: center;'>\n      [Car1] — [Car2] — [Car3] — [Car4]<br>\n      You need 3 connections to join 4 cars together\n    </div>\n  </div>\n\n  <div style='background: var(--icAns); color: white; padding: 12px; border-radius: 6px; border-left: 4px solid var(--icAns); margin-top: 15px; text-align: center;'>\n    <strong>✗ FALSE:</strong> A tetrapeptide has 3 peptide bonds, not 4!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Quick Reference:</strong><br>\n    • Dipeptide (2 amino acids): 1 peptide bond<br>\n    • Tripeptide (3 amino acids): 2 peptide bonds<br>\n    • Tetrapeptide (4 amino acids): 3 peptide bonds<br>\n    • Pentapeptide (5 amino acids): 4 peptide bonds\n  </div>\n</div>"
+    }
+  },
+
+
+  {
+  "type": "heading",
+  "heading": "Section D"
+  },
+
+  
+  {
+    "type": "Question",
+    "name": "Question 7a)i",
+    "topic": ["Biochemistry", "Acid-Base Chemistry"],
+    "Question": {
+      "content": "Derive the Henderson-Hasselbalch equation",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<ul><li>Start with acid dissociation: HA ⇌ H⁺ + A⁻, Kₐ = [H⁺][A⁻]/[HA]</li>  <li>Rearrange to [H⁺] = Kₐ × [HA]/[A⁻].</li>  <li>Take -log of both sides: -log[H⁺] = -logKₐ - log([HA]/[A⁻])</li>  <li>This gives pH = pKₐ + log([A⁻]/[HA]).</li></ul>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Deriving the Henderson-Hasselbalch Equation</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Start with Acid Dissociation</strong><br>\n    For a weak acid HA in water:<br>\n    HA ⇌ H⁺ + A⁻<br>\n    The acid dissociation constant is:<br>\n    Kₐ = [H⁺][A⁻] / [HA]\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Rearrange for [H⁺]</strong><br>\n    Kₐ = [H⁺][A⁻] / [HA]<br>\n    Multiply both sides by [HA]:<br>\n    Kₐ × [HA] = [H⁺][A⁻]<br>\n    Divide both sides by [A⁻]:<br>\n    [H⁺] = Kₐ × [HA] / [A⁻]\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Take Negative Logarithm</strong><br>\n    Take -log of both sides:<br>\n    -log[H⁺] = -log(Kₐ × [HA]/[A⁻])<br>\n    -log[H⁺] = -logKₐ - log([HA]/[A⁻])\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Simplify to Final Form</strong><br>\n    Remember: -log[H⁺] = pH and -logKₐ = pKₐ<br>\n    pH = pKₐ - log([HA]/[A⁻])<br>\n    Using log rules: -log([HA]/[A⁻]) = log([A⁻]/[HA])<br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0; text-align: center;'>\n      <strong>Final equation: pH = pKₐ + log([A⁻]/[HA])</strong>\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Insight:</strong> This equation tells us that when [A⁻] = [HA], pH = pKₐ. The pH of a buffer depends on the ratio of conjugate base to acid.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a)ii",
+    "topic": ["Biochemistry", "Acid-Base Chemistry"],
+    "Question": {
+      "content": "State four limitations of the Henderson-Hasselbalch equation",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Assumes ideal solution behavior,  <br>  2. Ignores activity coefficients,  <br>  3. Only valid when [HA] and [A⁻] >> [H⁺],  <br>  4. Doesn't account for temperature changes."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Limitations of Henderson-Hasselbalch Equation</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Assumes Ideal Solution Behavior</strong><br>\n    The equation assumes particles don't interact with each other, but in real solutions, ions do interact and affect each other's behavior.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Ignores Activity Coefficients</strong><br>\n    It uses concentrations instead of activities. In concentrated solutions, the effective concentration (activity) is different from the actual concentration.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Valid Only When [HA] and [A⁻] >> [H⁺]</strong><br>\n    The equation works best when the acid and conjugate base concentrations are much larger than the hydrogen ion concentration. At very low or high pH, it becomes inaccurate.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>4. Doesn't Account for Temperature Changes</strong><br>\n    Kₐ values change with temperature, but the equation doesn't automatically adjust for this. You need to use the correct Kₐ for your temperature.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Remember:</strong> Henderson-Hasselbalch is a simplified model that works well for most biological buffers, but has limitations in extreme conditions.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a)iii",
+    "topic": ["Biochemistry", "Acid-Base Chemistry"],
+    "Question": {
+      "content": "State two uses of the Henderson-Hasselbalch equation",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Preparing buffer solutions of desired pH,  <br>  2. Calculating pH of buffer systems,  <br>  3. Determining the ratio of acid to conjugate base"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Uses of Henderson-Hasselbalch Equation</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Preparing Buffer Solutions</strong><br>\n    Scientists use this equation like a recipe to make buffer solutions with exact pH values. If you need a buffer at pH 5.0 using acetic acid (pKₐ = 4.76), you can calculate exactly how much acid and conjugate base to mix.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Calculating Buffer pH</strong><br>\n    If you already have a buffer solution and know the concentrations of acid and conjugate base, you can quickly calculate its pH without expensive equipment.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Determining the ratio of acid to conjugate base</strong><br>\n     It can find the ratio of the concentrations of the conjugate base to the weak acid in a solution, which is useful for understanding a buffer's properties.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n     <strong style='color: var(--strongColor);'>Real-World Applications:</strong><br>\n    • <strong>Medical labs:</strong> Prepare buffers for blood tests<br>\n    • <strong>Pharmaceuticals:</strong> Create stable drug formulations<br>\n    • <strong>Biochemistry:</strong> Maintain proper pH for enzymes to work<br>\n    • <strong>Food industry:</strong> Control acidity in products\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Point:</strong> This equation is essential for anyone working with solutions that need stable pH, from hospital labs to research facilities.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7b",
+    "topic": ["Biochemistry", "Acid-Base Chemistry"],
+    "Question": {
+      "content": "Calculate the pH of a buffer solution containing 0.53 mol/L of sodium ethanoate and 0.22 mol/L of ethanoic acid, given Kₐ for ethanoic acid is 1.74×10⁻⁵ mol/dm³",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pH = 5.14"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Buffer pH Calculation</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Identify Given Values</strong><br>\n    [A⁻] = 0.53 M (sodium ethanoate - conjugate base)<br>\n    [HA] = 0.22 M (ethanoic acid - weak acid)<br>\n    Kₐ = 1.74 × 10⁻⁵\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate pKₐ</strong><br>\n    pKₐ = -log(Kₐ)<br>\n    pKₐ = -log(1.74 × 10⁻⁵)<br>\n    pKₐ = -(-4.76) = 4.76\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Apply Henderson-Hasselbalch Equation</strong><br>\n    pH = pKₐ + log([A⁻]/[HA])<br>\n    pH = 4.76 + log(0.53/0.22)<br>\n    pH = 4.76 + log(2.409)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate Final pH</strong><br>\n    log(2.409) = 0.38<br>\n    pH = 4.76 + 0.38<br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0; text-align: center;'>\n      pH = 5.14\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Understanding the Result:</strong> Since [A⁻] > [HA], the pH is higher than pKₐ. The buffer resists pH changes around this value.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8a",
+    "topic": ["Biochemistry", "Acid-Base Chemistry"],
+    "Question": {
+      "content": "State and discuss any four biologically important acid molecules in the human body",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Amino acids (protein building blocks),  <br>  2. Fatty acids (for energy storage),  <br>  3. Lactic acid (for muscle metabolism),  <br>  4. Citric acid (for energy production)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Biologically Important Acids</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Amino Acids</strong><br>\n    • <strong>What they are:</strong> Building blocks of proteins<br>\n    • <strong>Why acidic:</strong> Have carboxylic acid groups (-COOH)<br>\n    • <strong>Importance:</strong> Make all proteins in your body - enzymes, muscles, antibodies<br>\n    • <strong>Examples:</strong> Glutamic acid, aspartic acid\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Fatty Acids</strong><br>\n    • <strong>What they are:</strong> Components of fats and oils<br>\n    • <strong>Why acidic:</strong> Have carboxylic acid groups<br>\n    • <strong>Importance:</strong> Store energy, build cell membranes, make hormones<br>\n    • <strong>Examples:</strong> Palmitic acid, oleic acid, linoleic acid\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Lactic Acid</strong><br>\n    • <strong>What it is:</strong> Produced during intense exercise<br>\n    • <strong>Why acidic:</strong> Has carboxylic acid group<br>\n    • <strong>Importance:</strong> Temporary energy source when oxygen is low<br>\n    • <strong>Effect:</strong> Causes muscle burn during heavy exercise\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>4. Citric Acid</strong><br>\n    • <strong>What it is:</strong> Key molecule in energy production<br>\n    • <strong>Why acidic:</strong> Has three carboxylic acid groups<br>\n    • <strong>Importance:</strong> Central to citric acid cycle (Krebs cycle) that makes energy<br>\n    • <strong>Source:</strong> Found in citrus fruits and produced in your cells\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Insight:</strong> Acids aren't just dangerous chemicals - they're essential building blocks and energy molecules that keep your body functioning!\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8b",
+    "topic": ["Biochemistry", "Acid-Base Chemistry"],
+    "Question": {
+      "content": "Show how to prepare a buffer solution of pH 2.94 using ethanoic acid with Kₐ = 1.74 × 10⁻⁵ mol/dm³",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<ul><li>Use Henderson-Hasselbalch equation: pH = pKₐ + log([A⁻]/[HA]).</li>  <li>For pH 2.94 and pKₐ 4.76, the ratio [A⁻]/[HA] = 10^(2.94-4.76) = 10^(-1.82) = 0.0151.</li>  <li>Mix ethanoic acid with a very small amount of its conjugate base in 1:0.0151 ratio.</li></ul>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Preparing a Specific pH Buffer</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Calculate pKₐ</strong><br>\n    pKₐ = -log(Kₐ) = -log(1.74 × 10⁻⁵) = 4.76\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Use Henderson-Hasselbalch Equation</strong><br>\n    pH = pKₐ + log([A⁻]/[HA])<br>\n    2.94 = 4.76 + log([A⁻]/[HA])\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Solve for the Ratio</strong><br>\n    log([A⁻]/[HA]) = 2.94 - 4.76 = -1.82<br>\n    [A⁻]/[HA] = 10^(-1.82)<br>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0; text-align: center;'>\n      [A⁻]/[HA] = 0.0151\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Practical Preparation</strong><br>\n    This means for every 1 mole of ethanoic acid (HA), you need only 0.0151 moles of sodium ethanoate (A⁻).<br>\n    <strong>Example:</strong> Dissolve 1 mole of ethanoic acid and 0.0151 moles of sodium ethanoate in 1 liter of water.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Important Note:</strong><br>\n    pH 2.94 is very acidic and far from ethanoic acid's pKₐ of 4.76. This buffer will have <strong>poor buffering capacity</strong> because the ratio is so unbalanced. For better buffering, choose an acid with pKₐ closer to your desired pH.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Buffer Rule:</strong> Best buffering occurs when pH = pKₐ (equal amounts of acid and conjugate base). The further from pKₐ, the weaker the buffer.\n  </div>\n</div>"
+    }
+  },
+
+  {
+  "type": "heading",
+  "heading": "Section E"
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 9a)i",
+    "topic": ["Biochemistry", "Enzyme Kinetics"],
+    "Question": {
+      "content": "Show the graphical plot pattern for the Michaelis-Menten equation indicating its axes",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N9AIa.png'  alt ='The Lineweaver-Burk Plot. A linear transformation of the actual Michaelis-Menten equation curve'/>  <b> The Lineweaver-Burk Plot. It's a linear transformation of the actual Michaelis-Menten equation curve</b>    <br>    <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N9AIa2.png'  alt ='The actual Michaelis-Menten equation curve'/>  <b> The actual Michaelis-Menten equation curve</b>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Lineweaver-Burk Plot</h4>\n   <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N9AIe.png'  alt ='Explanation for the Lineweaver-Burk Plot'/>   <br><br>\n    <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Actual Michaelis-Menten Plot</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Axes:</strong><br>\n    • <strong>Y-axis:</strong> Reaction Velocity (v) - how fast the reaction goes<br>\n    • <strong>X-axis:</strong> Substrate Concentration [S] - amount of starting material\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Shape:</strong> Hyperbolic curve (like a hill that flattens out)<br>\n    • <strong>At low [S]:</strong> Steep slope - velocity increases rapidly with more substrate<br>\n    • <strong>At high [S]:</strong> Flat plateau - velocity reaches maximum (Vmax)<br>\n    • <strong>KM point:</strong> Substrate concentration where velocity = ½ Vmax\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Real-life analogy:</strong><br>\n    Think of workers in a factory:<br>\n    • Few products (low [S]) = workers work slowly<br>\n    • More products = workers speed up<br>\n    • Too many products = workers can't go faster (reached Vmax)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Point:</strong> The curve shows how enzymes get saturated - they have a maximum speed no matter how much substrate you add.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)ii",
+    "topic": ["Biochemistry", "Enzyme Kinetics"],
+    "Question": {
+      "content": "Show the graphical plot pattern for uncompetitive inhibition indicating its axes",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "The uncompetitive inhibition curve",
+      "content": "https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N9AIIa.png",
+      "Caption": "The uncompetitive inhibition curve"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Uncompetitive Inhibition Plot</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Best viewed in Lineweaver-Burk plot (double reciprocal):</strong><br>\n    • <strong>Y-axis:</strong> 1/v (inverse of velocity)<br>\n    • <strong>X-axis:</strong> 1/[S] (inverse of substrate concentration)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Pattern:</strong> Parallel lines<br>\n    • With inhibitor: Line shifts up and left<br>\n    • <strong>Vmax decreases</strong> (y-intercept increases)<br>\n    • <strong>KM decreases</strong> (x-intercept becomes more negative)<br>\n    • <strong>Slope stays the same</strong> (lines are parallel)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What's happening:</strong><br>\n    Uncompetitive inhibitor only binds to the enzyme-substrate complex (ES), not the free enzyme. It's like a supervisor who only shows up when workers are already busy.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Unique Feature:</strong> Both Vmax and KM decrease proportionally, creating parallel lines - this is the fingerprint of uncompetitive inhibition.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)iii",
+    "topic": ["Biochemistry", "Enzyme Kinetics"],
+    "Question": {
+      "content": "Show the graphical plot pattern for competitive inhibition indicating its axes",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "The competitive inhibition curve",
+      "content": "https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N9AIIIa.png",
+      "Caption": "The competitive inhibition curve"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Competitive Inhibition Plot</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Lineweaver-Burk plot:</strong><br>\n    • <strong>Y-axis:</strong> 1/v<br>\n    • <strong>X-axis:</strong> 1/[S]\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Pattern:</strong> Lines intersect on y-axis<br>\n    • With inhibitor: Line rotates upward from same y-intercept<br>\n    • <strong>Vmax unchanged</strong> (same y-intercept)<br>\n    • <strong>KM increases</strong> (x-intercept moves right)<br>\n    • <strong>Slope increases</strong>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What's happening:</strong><br>\n    Competitive inhibitor fights with substrate for the active site. It's like two people trying to park in the same parking space - they compete for the spot.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Real medical example:</strong><br>\n    Statin drugs competitively inhibit HMG-CoA reductase to lower cholesterol. They compete with the natural substrate for the enzyme's active site.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Key Insight:</strong> You can overcome competitive inhibition by adding more substrate - the inhibitor can be \"out-competed.\"\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)iv",
+    "topic": ["Biochemistry", "Enzyme Kinetics"],
+    "Question": {
+      "content": "Show the graphical plot pattern for the Eadie-Hofstee equation indicating its axes",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "The Eadie-Hofstee equation curve",
+      "content": "https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N9AIVa.png",
+      "Caption": "The Eadie-Hofstee equation curve"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Eadie-Hofstee Plot</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Axes:</strong><br>\n    • <strong>Y-axis:</strong> Velocity (v)<br>\n    • <strong>X-axis:</strong> v/[S] (velocity divided by substrate concentration)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Pattern:</strong> Straight line with negative slope<br>\n    • <strong>Slope = -KM</strong> (Michaelis constant)<br>\n    • <strong>Y-intercept = Vmax</strong> (maximum velocity)<br>\n    • <strong>X-intercept = Vmax/KM</strong>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Advantages:</strong><br>\n    • Spreads data points more evenly than Lineweaver-Burk<br>\n    • Easier to detect deviations from linearity<br>\n    • Both Vmax and KM can be read directly from intercepts\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why use it:</strong><br>\n    While Lineweaver-Burk is more popular, Eadie-Hofstee gives better statistical accuracy because it doesn't distort experimental errors as much.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Remember:</strong> Eadie-Hofstee is like the \"quality control\" plot - it shows if your enzyme kinetics data really follows Michaelis-Menten behavior.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)v",
+    "topic": ["Biochemistry", "Enzyme Kinetics"],
+    "Question": {
+      "content": "Describe the graphical plot pattern for non-competitive inhibition including its axes",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "This is the Lineweaver-Burk Plot of Non-Competitive Inhibition.    <br><br>\n   <img class = 'imgAns thumbnail' src ='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/BCH_210/2014_2015/N9AVa.png'  alt ='Image of the Lineweaver-Burk Plot of Non-Competitive Inhibition'/>   <b>The top line is the inhibited line(Purple). The bottom line is the unhibited line(Black)</b>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Lineweaver-Burk Plot of Non-Competitive Inhibition</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Lineweaver-Burk plot:</strong><br>\n    • <strong>Y-axis:</strong> 1/v<br>\n    • <strong>X-axis:</strong> 1/[S]\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Pattern:</strong> Lines intersect on x-axis<br>\n    • With inhibitor: Line shifts upward from same x-intercept<br>\n    • <strong>Vmax decreases</strong> (y-intercept increases)<br>\n    • <strong>KM unchanged</strong> (same x-intercept)<br>\n    • <strong>Slope increases</strong>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What's happening:</strong><br>\n    Non-competitive inhibitor binds to a different site than the active site, changing the enzyme's shape so it can't work properly. It's like putting glue in the engine - the car looks fine but won't start.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key difference from competitive:</strong><br>\n    Adding more substrate doesn't help because the inhibitor isn't competing for the active site. The enzyme is just broken.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Important:</strong>  <ul> <li>You cannot overcome non-competitive inhibition by adding more substrate - the damage is already done to the enzyme itself.</li>\n  <li>There is also a Michaelis-Menten Plot and a Eadie-Hofstee Plot for Non-Competitive Inhibition.</li>\n </ul>   </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9b",
+    "topic": ["Biochemistry", "Enzyme Kinetics", "Medicine"],
+    "Question": {
+      "content": "Discuss the benefits of enzyme inhibition in medicine",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enzyme inhibition allows targeted drug therapy:  <br>  1. Antibiotics kill bacteria,  <br>  2. Statins lower cholesterol,  <br>  3. ACE inhibitors control blood pressure,  <br>  4. Cancer drugs stop tumor growth."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Medical Benefits of Enzyme Inhibition</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why inhibition is medical gold:</strong><br>\n    Enzyme inhibitors are like precision tools that can turn off specific biological processes without affecting the whole body.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Major Medical Applications:</strong><br>\n    \n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>1. Antibiotics</strong><br>\n      • Penicillin inhibits bacterial cell wall synthesis<br>\n      • Sulfa drugs inhibit folate synthesis in bacteria<br>\n      • Result: Bacteria die but human cells are safe\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>2. Cholesterol Control (Statins)</strong><br>\n      • Inhibit HMG-CoA reductase enzyme<br>\n      • Reduce cholesterol production in liver<br>\n      • Prevent heart attacks and strokes\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>3. Blood Pressure Drugs (ACE inhibitors)</strong><br>\n      • Inhibit Angiotensin-Converting Enzyme<br>\n      • Relax blood vessels, lower blood pressure<br>\n      • Examples: Lisinopril, Enalapril\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>4. Cancer Chemotherapy</strong><br>\n      • Methotrexate inhibits DNA synthesis in fast-growing cells<br>\n      • Targets cancer cells more than normal cells<br>\n      • Stops tumor growth\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>5. Pain and Inflammation</strong><br>\n      • Aspirin inhibits COX enzymes<br>\n      • Reduces pain, fever, and inflammation<br>\n      • One of the oldest and most used drugs\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ The Power:</strong> Enzyme inhibitors give us surgical precision in drug design - we can target one specific enzyme to treat diseases without harming the rest of the body.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9c",
+    "topic": ["Biochemistry", "Enzyme Kinetics"],
+    "Question": {
+      "content": "Distinguish between uncompetitive and non-competitive inhibition of enzyme reactions",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uncompetitive: <ol><li>Binds only to ES complex</li>  <li>Decreases both Vmax and KM</li>  <li>Inhibitor of placement alkaline phosphatase by phenylalanine is an example of uncompetitive inhibition.</li></ol>   <br>\n  Non-competitive: <ol><li>Binds to both E and ES,</li>  <li>Decreases Vmax but KM unchanged</li>  <li>A variety of poisons, such as iodoacetate, heavy metal ions(lead, mercury) and oxidizing agents act as irreversible non-competitive types of inhibitions.</li></ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Uncompetitive vs Non-Competitive Inhibition</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Parking Lot Analogy:</strong><br>\n    Think of enzyme as parking space, substrate as car, inhibitor as obstacle\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>UNCOMPETITIVE INHIBITION</strong><br>\n      • <strong>Binding:</strong> ONLY to enzyme-substrate complex (ES)<br>\n      • <strong>Analogy:</strong> Tow truck that only comes when a car is parked<br>\n      • <strong>Effect on Vmax:</strong> Decreases<br>\n      • <strong>Effect on KM:</strong> Decreases<br>\n      • <strong>Graph:</strong> Parallel lines in Lineweaver-Burk plot<br>\n      • <strong>Overcome by substrate?</strong> No - makes inhibition worse\n    </div>\n\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0;'>\n      <strong>NON-COMPETITIVE INHIBITION</strong><br>\n      • <strong>Binding:</strong> BOTH free enzyme (E) AND enzyme-substrate complex (ES)<br>\n      • <strong>Analogy:</strong> Barrier that blocks parking space whether empty or occupied<br>\n      • <strong>Effect on Vmax:</strong> Decreases<br>\n      • <strong>Effect on KM:</strong> Unchanged<br>\n      • <strong>Graph:</strong> Lines intersect on x-axis in Lineweaver-Burk plot<br>\n      • <strong>Overcome by substrate?</strong> No - adding substrate doesn't help\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Differences Summary:</strong><br>\n    <strong>Binding Site:</strong><br>\n    • Uncompetitive: Only when substrate is bound<br>\n    • Non-competitive: Anytime, different site than active site\n    <br>\n    <strong>KM Changes:</strong><br>\n    • Uncompetitive: KM decreases<br>\n    • Non-competitive: KM stays same\n    <br>\n    <strong>Graph Pattern:</strong><br>\n    • Uncompetitive: Parallel lines<br>\n    • Non-competitive: Lines meet on x-axis\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Memory Trick:</strong> \"U\"ncompetitive = \"U\"nique binding (only to ES complex). \"N\"on-competitive = \"N\"o preference (binds to both E and ES).\n  </div>\n</div>"
+    }
+  }
+
+
+]
