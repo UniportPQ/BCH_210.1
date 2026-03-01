@@ -1,0 +1,662 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "General Biohemistry I",
+    "code": "BCH 210.1",
+    "session": "2019/2020",
+    "topics": ["Physiology", "Biology", "Chemistry", "Ecology", "Acid-Base", "Definitions", "Analytical Chemistry", "Laboratory Techniques", "Vitamins", "Nutrition", "Minerals", "Biochemistry", "Proteins", "Separation Techniques", "Cell Biology", "Protein Structure", "Denaturation", "Carbohydrates", "Stereochemistry", "Isomerism", "Chirality", "Nomenclature", "Configuration", "Organic Chemistry", "Enzymes", "Properties", "Specificity", "Equations", "Inhibition", "Graphs"],
+    "time": "90"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Section A"
+  },
+    {
+    "type": "Question",
+    "name": "Question 1a",
+    "topic": [
+      "Physiology",
+      "Biology",
+      "Chemistry",
+      "Ecology"
+    ],
+    "Question": {
+      "content": "Explain the importance of pH determination.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pH determination is important because it tells us how acidic or basic a solution is. This information is vital in many fields: in biology, enzymes work best at specific pH; in medicine, blood pH indicates health; in agriculture, soil pH affects plant growth; in industry, chemical reactions depend on pH; and in environmental science, water quality is monitored by pH."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Importance of pH Determination – Step by Step</h4>\n  <p><strong>What is pH?</strong> pH is a scale (0–14) that measures the concentration of hydrogen ions (\\(H^+\\)) in a solution. Low pH = acidic, high pH = basic, 7 = neutral.</p>\n  <p><strong>Why is it important?</strong> Here’s a breakdown by area:</p>\n  <ul>\n    <li><strong>Biology & Medicine:</strong> Living cells are very sensitive to pH. For example, human blood must stay near pH 7.4. If it shifts, enzymes (biological catalysts) stop working, leading to illness. Stomach acid has pH ~2 to digest food, while saliva is near neutral.</li>\n    <li><strong>Agriculture:</strong> Plants absorb nutrients only when soil pH is right. If soil is too acidic (low pH) or too alkaline (high pH), crops fail.</li>\n    <li><strong>Chemical Industry:</strong> Many reactions need a specific pH to produce the desired product. pH control ensures safety and efficiency.</li>\n    <li><strong>Environment:</strong> Acid rain lowers pH in lakes, killing fish. Measuring pH helps detect pollution.</li>\n    <li><strong>Food & Water:</strong> pH affects taste, preservation, and safety. For instance, bacteria grow poorly in acidic foods (pickling).</li>\n  </ul>\n  <p>In short, pH determination is a simple but powerful tool to understand and control chemical and biological systems.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1b(i)",
+    "topic": [
+      "Chemistry",
+      "Acid-Base",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Define a buffer solution in terms of acid-base chemistry.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A buffer solution is a mixture that resists changes in pH when small amounts of acid or base are added. It usually contains a weak acid and its conjugate base (or a weak base and its conjugate acid)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is a Buffer? (For Beginners)</h4>\n  <p>Imagine you have a bucket of water and you add a drop of strong acid – the pH drops dramatically. But if you have a buffer, adding that same drop barely changes the pH. That's the magic of buffers!</p>\n  <p><strong>Definition:</strong> A buffer solution is a system that maintains a stable pH. It is made of two components:</p>\n  <ul>\n    <li>A <strong>weak acid</strong> (like acetic acid, \\(CH_3COOH\\))</li>\n    <li>Its <strong>conjugate base</strong> (like sodium acetate, \\(CH_3COONa\\))</li>\n  </ul>\n  <p>Alternatively, it can be a weak base and its conjugate acid (e.g., ammonia and ammonium chloride).</p>\n  <p><strong>Why does it resist pH change?</strong> The weak acid can neutralize any added base, and the conjugate base can neutralize any added acid. This pair acts like a pH sponge.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1b(ii)",
+    "topic": [
+      "Chemistry",
+      "Acid-Base",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "How do buffers function? Explain the mechanism.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Buffers function by using an equilibrium between a weak acid and its conjugate base. Added H⁺ ions are consumed by the base, and added OH⁻ ions are consumed by the acid, keeping pH nearly constant."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Buffers Work – Step by Step</h4>\n  <p>Let's use the classic example: an acetate buffer containing acetic acid (\\(CH_3COOH\\)) and acetate ion (\\(CH_3COO^-\\)).</p>\n  <p><strong>1. When acid (H⁺) is added:</strong><br>\n  The extra H⁺ ions will react with the acetate ions (the base) to form acetic acid. This reaction removes the free H⁺ from solution, so pH doesn't drop much.</p>\n  <p>\\[ H^+ + CH_3COO^- \\rightarrow CH_3COOH \\]</p>\n  <p><strong>2. When base (OH⁻) is added:</strong><br>\n  The OH⁻ ions will react with the acetic acid (the acid) to form acetate and water. This neutralizes the added base.</p>\n  <p>\\[ OH^- + CH_3COOH \\rightarrow CH_3COO^- + H_2O \\]</p>\n  <p><strong>3. The balance:</strong> The weak acid and its conjugate base are always in equilibrium. As long as both are present in reasonable amounts, they can absorb moderate additions of acid or base. This is why blood, for example, uses bicarbonate buffer to keep pH around 7.4.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2a",
+    "topic": [
+      "Chemistry",
+      "Definitions",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "What is polarity in chemistry?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polarity is the separation of electric charge in a molecule, creating partial positive and negative ends. It results from unequal sharing of electrons between atoms with different electronegativities."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Polarity – Simple Explanation</h4>\n  <p>Think of a tug-of-war between atoms for electrons. If one atom pulls harder (higher electronegativity), it gets a slight negative charge (δ–), and the other gets a slight positive charge (δ+). This creates a dipole, like a tiny magnet with two poles.</p>\n  <p><strong>Example: Water (H₂O)</strong> – Oxygen is more electronegative than hydrogen, so electrons spend more time near oxygen. The molecule bends, giving oxygen a δ– and each hydrogen a δ+. This makes water polar, which is why it dissolves salt and sugars.</p>\n  <p><strong>Nonpolar molecules:</strong> Like oils or fats, where electrons are shared equally – no poles.</p>\n  <p><strong>Why polarity matters:</strong> It determines how substances interact. Polar molecules dissolve in water (hydrophilic), nonpolar ones do not (hydrophobic). This is key in biology (cell membranes), chemistry (solvents), and even cooking!</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2b",
+    "topic": [
+      "Chemistry",
+      "Analytical Chemistry",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Differentiate between inflection points and equivalence points in titration.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The equivalence point is when the amount of titrant added is exactly enough to react stoichiometrically with the analyte. The inflection point is the point on the titration curve where the slope changes most rapidly; it is often used to detect the equivalence point experimentally."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Inflection vs Equivalence Points – For Beginners</h4>\n  <p>Imagine you are doing a titration – adding acid to base and measuring pH. You get a curve (S-shape).</p>\n  <ul>\n    <li><strong>Equivalence point:</strong> This is the <em>theoretical</em> point where the reaction is complete. For example, if you have 1 mole of HCl and add 1 mole of NaOH, you've reached equivalence. It's a calculated value.</li>\n    <li><strong>Inflection point:</strong> This is the <em>observed</em> point where the pH changes fastest – the steepest part of the curve. In many titrations (like strong acid-strong base), the inflection point coincides with the equivalence point, so we use it to mark the endpoint.</li>\n  </ul>\n  <p><strong>Key difference:</strong> Equivalence is about stoichiometry (moles matching). Inflection is about the curve's shape (maximum slope). They are often the same, but not always – for weak acid-weak base titrations, the inflection may be less sharp, and indicators might not match exactly.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2c",
+    "topic": [
+      "Chemistry",
+      "Acid-Base",
+      "Laboratory Techniques"
+    ],
+    "Question": {
+      "content": "How are buffers prepared in the laboratory?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Buffers are prepared by mixing a weak acid and its salt (conjugate base) or a weak base and its salt in water, then adjusting the pH using a pH meter and adding acid or base until the desired pH is reached. The Henderson-Hasselbalch equation helps calculate the ratio needed."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How to Make a Buffer – Step by Step Lab Guide</h4>\n  <p><strong>Step 1: Choose the components.</strong> Decide the target pH and pick a weak acid whose pKa is close to that pH. For example, to make pH 5 buffer, use acetic acid (pKa 4.76).</p>\n  <p><strong>Step 2: Calculate the ratio.</strong> Use the Henderson-Hasselbalch equation:</p>\n  <p>\\[ pH = pK_a + \\log\\left(\\frac{[A^-]}{[HA]}\\right) \\]</p>\n  <p>Rearrange to find the ratio of salt (conjugate base) to acid.</p>\n  <p><strong>Step 3: Weigh and mix.</strong> Weigh appropriate amounts of the weak acid and its salt (e.g., sodium acetate) and dissolve in distilled water.</p>\n  <p><strong>Step 4: Adjust pH.</strong> Use a pH meter. If the pH is off, add small amounts of strong acid (HCl) or base (NaOH) dropwise until you hit the target.</p>\n  <p><strong>Step 5: Dilute to final volume.</strong> Transfer to a volumetric flask and add water to the mark. Mix well.</p>\n  <p><strong>Example:</strong> To prepare 1 L of 0.1 M acetate buffer pH 5.0, you'd calculate the required amounts of acetic acid and sodium acetate, then follow the steps. Always calibrate the pH meter first!</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section B"
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a",
+    "topic": [
+      "Vitamins",
+      "Nutrition",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "State two sources, two functions, and two deficiency symptoms of Vitamin A.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sources: 1. Carrots, 2. Liver. Functions: 1. Maintains healthy vision, 2. Supports immune function. Deficiency Symptoms: 1. Night blindness, 2. Dry skin."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Understanding Vitamin A</h4>\n <p>Vitamin A is a fat-soluble vitamin crucial for several body functions. Think of it as the 'bodyguard' for your eyes and skin.</p>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🥕 Sources (Where to get it):</strong><br>\n  You can find Vitamin A in two main forms. Preformed Vitamin A (retinol) comes from animal sources like <strong>liver, eggs, and dairy products</strong>. Provitamin A (beta-carotene) comes from colorful plants that your body converts into Vitamin A. Excellent plant sources include <strong>carrots, sweet potatoes, spinach, and kale</strong>.\n </div>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🛡️ Functions (What it does):</strong><br>\n  Its most famous job is in <strong>vision</strong>. It helps your eyes adjust to changes in light. It's also essential for a healthy <strong>immune system</strong>, acting as a first line of defense against infections. Furthermore, it helps keep your <strong>skin and the lining of your organs</strong> healthy and acts as a barrier.\n </div>\n <div>\n  <strong style='color: var(--strongColor);'>⚠️ Deficiency Symptoms (What happens if you don't get enough):</strong><br>\n  The earliest and most specific sign is <strong>night blindness</strong>, where you have trouble seeing in dim light. A prolonged deficiency can lead to <strong>dry, rough skin</strong> and an increased risk of infections because the immune system is weakened.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b",
+    "topic": [
+      "Vitamins",
+      "Nutrition",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "State two sources, two functions, and two deficiency symptoms of Vitamin E.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sources: 1. Nuts and seeds, 2. Vegetable oils. Functions: 1. Acts as an antioxidant, 2. Supports immune function. Deficiency Symptoms: 1. Nerve damage (peripheral neuropathy), 2. Muscle weakness."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Understanding Vitamin E</h4>\n <p>Vitamin E is a fat-soluble vitamin famous for its role as an antioxidant. Think of it as your body's 'rust-proofing' agent.</p>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🌻 Sources (Where to get it):</strong><br>\n  The best sources are plant-based oils and fats. This includes <strong>vegetable oils</strong> like sunflower, safflower, and wheat germ oil. It's also abundant in <strong>nuts (like almonds) and seeds (like sunflower seeds)</strong>. You can also find it in green leafy vegetables and fortified cereals.\n </div>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🛡️ Functions (What it does):</strong><br>\n  Its primary job is as a powerful <strong>antioxidant</strong>. It protects your cells from damage caused by free radicals (unstable molecules that can harm cells). It also helps keep your <strong>immune system strong</strong> against viruses and bacteria. Furthermore, it helps in the formation of red blood cells and helps the body use vitamin K.\n </div>\n <div>\n  <strong style='color: var(--strongColor);'>⚠️ Deficiency Symptoms (What happens if you don't get enough):</strong><br>\n  True deficiency is rare in humans but can occur. Because of its role in protecting nerves, a deficiency can lead to <strong>peripheral neuropathy</strong>, which is damage to the nerves in your hands and feet, causing pain or weakness. Another symptom is <strong>muscle weakness</strong> as the muscle cells become damaged without the antioxidant protection.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3c",
+    "topic": [
+      "Vitamins",
+      "Nutrition",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "State two sources, two functions, and two deficiency symptoms of Folic Acid.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sources: 1. Leafy green vegetables, 2. Legumes. Functions: 1. DNA synthesis and cell growth, 2. Formation of red blood cells. Deficiency Symptoms: 1. Megaloblastic anemia, 2. Neural tube defects in newborns."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Understanding Folic Acid</h4>\n <p>Folic acid (or Folate, its natural form) is a B-vitamin (B9) that is crucial for making new cells. Think of it as the 'construction foreman' for your body's building projects.</p>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🥬 Sources (Where to get it):</strong><br>\n  Its name comes from the Latin word 'folium', meaning leaf. It is abundant in <strong>dark green leafy vegetables</strong> like spinach, kale, and Brussels sprouts. Other great sources include <strong>legumes</strong> (beans, peas, lentils), citrus fruits, and fortified grains like bread and pasta.\n </div>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🛡️ Functions (What it does):</strong><br>\n  It is essential for <strong>DNA synthesis and repair</strong>, which is the blueprint for all new cells. This makes it critical during periods of rapid growth, such as in pregnancy and infancy. It also works with vitamin B12 to form healthy <strong>red blood cells</strong> and is important for proper brain function.\n </div>\n <div>\n  <strong style='color: var(--strongColor);'>⚠️ Deficiency Symptoms (What happens if you don't get enough):</strong><br>\n  The most common symptom is a type of anemia called <strong>megaloblastic anemia</strong>, where your body produces fewer, larger, and immature red blood cells, leading to fatigue and weakness. In pregnant women, a severe deficiency can cause serious birth defects in the baby's brain and spine, known as <strong>neural tube defects</strong>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4a",
+    "topic": [
+      "Minerals",
+      "Nutrition",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "State two sources, two functions, and two deficiency symptoms of Iron (Fe).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sources: 1. Red meat, 2. Spinach. Functions: 1. Part of hemoglobin in red blood cells to carry oxygen, 2. Part of myoglobin in muscles to store oxygen. Deficiency Symptoms: 1. Iron-deficiency anemia (fatigue, weakness), 2. Pale skin."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Understanding Iron (Fe)</h4>\n <p>Iron is a trace mineral, meaning you only need a small amount, but it is absolutely vital. Think of it as the 'oxygen delivery specialist'.</p>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🥩 Sources (Where to get it):</strong><br>\n  There are two types of iron in food. Heme iron is found in animal products and is easily absorbed. Good sources are <strong>red meat (beef, liver), poultry, and fish</strong>. Non-heme iron is found in plants and is less easily absorbed. Sources include <strong>spinach and other leafy greens, beans, and fortified cereals</strong>.\n </div>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🛡️ Functions (What it does):</strong><br>\n  Its main job is to be a core part of <strong>hemoglobin</strong>, a protein in red blood cells that carries oxygen from your lungs to the rest of your body. It is also part of <strong>myoglobin</strong>, a protein that stores oxygen in your muscles for use during activity. It's also involved in energy production and a healthy immune system.\n </div>\n <div>\n  <strong style='color: var(--strongColor);'>⚠️ Deficiency Symptoms (What happens if you don't get enough):</strong><br>\n  Iron deficiency is the most common nutritional deficiency worldwide. It leads to <strong>iron-deficiency anemia</strong>, where your blood doesn't have enough healthy red blood cells. This causes extreme <strong>fatigue, weakness, and dizziness</strong>. You might also notice <strong>pale skin</strong>, cold hands and feet, and brittle nails.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4b",
+    "topic": [
+      "Minerals",
+      "Nutrition",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "State two sources, two functions, and two deficiency symptoms of Selenium (Se).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sources: 1. Brazil nuts, 2. Seafood. Functions: 1. Acts as an antioxidant, 2. Important for thyroid hormone metabolism. Deficiency Symptoms: 1. Keshan disease (a type of heart disease), 2. Infertility in men."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Understanding Selenium (Se)</h4>\n <p>Selenium is a trace mineral that works as a powerful antioxidant, often working alongside Vitamin E. Think of it as a 'protector and regulator'.</p>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🥜 Sources (Where to get it):</strong><br>\n  The amount of selenium in food depends on the soil where plants are grown. The richest source is <strong>Brazil nuts</strong> – just one or two nuts can meet your daily needs! Other good sources include <strong>seafood (tuna, sardines), organ meats (liver), and eggs</strong>.\n </div>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🛡️ Functions (What it does):</strong><br>\n  Selenium is a key component of <strong>antioxidant enzymes</strong> that protect your cells from damage. It is also crucial for the proper metabolism of <strong>thyroid hormones</strong>, which control your metabolism. It also plays a role in a healthy immune system and reproduction.\n </div>\n <div>\n  <strong style='color: var(--strongColor);'>⚠️ Deficiency Symptoms (What happens if you don't get enough):</strong><br>\n  A severe deficiency is linked to <strong>Keshan disease</strong>, a potentially fatal form of heart disease (cardiomyopathy). It can also contribute to <strong>male infertility</strong> because selenium is important for sperm motility. It may also weaken the immune system and cause mental fog.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4c",
+    "topic": [
+      "Minerals",
+      "Nutrition",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "State two sources, two functions, and two deficiency symptoms of Calcium (Ca).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sources: 1. Dairy products (milk, cheese), 2. Leafy green vegetables. Functions: 1. Building and maintaining strong bones and teeth, 2. Muscle contraction and nerve transmission. Deficiency Symptoms: 1. Osteoporosis (brittle bones), 2. Muscle cramps."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Understanding Calcium (Ca)</h4>\n <p>Calcium is the most abundant mineral in the body. Think of it as the 'master builder and messenger'. 99% of it is stored in your bones and teeth, but the 1% in your blood is vital for everyday life.</p>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🥛 Sources (Where to get it):</strong><br>\n  The most well-known sources are <strong>dairy products</strong> like milk, yogurt, and cheese. If you don't consume dairy, you can get calcium from <strong>fortified plant milks (soy, almond), leafy green vegetables (kale, collard greens), and canned fish with soft bones (like sardines or salmon with bones).</strong>\n </div>\n <div style='margin-bottom: 12px;'>\n  <strong style='color: var(--strongColor);'>🛡️ Functions (What it does):</strong><br>\n  Its primary job is to build and maintain strong <strong>bones and teeth</strong>. It is also essential for <strong>muscle contraction</strong> (including your heartbeat), <strong>nerve transmission</strong> (sending messages between your brain and body), and blood clotting.\n </div>\n <div>\n  <strong style='color: var(--strongColor);'>⚠️ Deficiency Symptoms (What happens if you don't get enough):</strong><br>\n  If your diet lacks calcium, your body will take it from your bones. Over time, this leads to <strong>osteoporosis</strong>, where bones become weak, brittle, and prone to fracture. Because of its role in muscle and nerve function, a deficiency can also cause <strong>muscle cramps, spasms, and numbness or tingling in the fingers</strong>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section C"
+  },
+    {
+        "type": "Question",
+        "name": "Question 5a",
+        "topic": [
+            "Biochemistry",
+            "Proteins",
+            "Separation Techniques"
+        ],
+        "Question": {
+            "content": "Write notes on electrophoresis as a method of protein separation.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Electrophoresis separates proteins based on their size and charge by applying an electric field to a gel matrix."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Electrophoresis: Separating Proteins by Size and Charge</h4>\n <p>Electrophoresis is a laboratory technique used to separate mixtures of proteins based on their physical properties, specifically their size and electrical charge.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 1: The Principle</strong><br>\n Proteins can have a positive or negative charge depending on their amino acid composition and the pH of the solution. When placed in an electric field, charged proteins will migrate toward the opposite electrode. For example, a negatively charged protein will move toward the positive electrode (anode).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 2: The Setup</strong><br>\n The protein mixture is placed into wells at one end of a slab of gel, often made of polyacrylamide or agarose. This gel acts like a molecular sieve, with tiny pores that allow smaller molecules to move through more easily than larger ones.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 3: The Separation</strong><br>\n When an electric current is applied, the proteins begin to move through the gel. The separation happens for two main reasons: \n <ul>\n <li><strong>Charge:</strong> Proteins with a stronger negative charge will be pulled more strongly toward the positive electrode and will move faster.</li>\n <li><strong>Size (Sieving):</strong> As proteins migrate, smaller proteins weave through the gel's pores more quickly, while larger proteins get slowed down.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 4: Visualization</strong><br>\n After a set time, the electric current is stopped. The proteins have now traveled different distances, forming distinct bands within the gel. These bands can be stained with a dye to become visible, allowing scientists to see the different protein components in the original mixture. A common form of this technique is SDS-PAGE, which gives all proteins a uniform negative charge so they are separated primarily by size.\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 5b",
+        "topic": [
+            "Biochemistry",
+            "Proteins",
+            "Separation Techniques",
+            "Cell Biology"
+        ],
+        "Question": {
+            "content": "Write notes on centrifugation as a method of protein separation.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Centrifugation separates proteins and other cellular components based on their size, shape, and density by spinning them at high speeds."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Centrifugation: Separating by Density and Size</h4>\n <p>Centrifugation is a process that uses centrifugal force to separate components of a mixture based on their density, size, and shape. Think of it as a very powerful, fast-spinning spinner for test tubes.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Core Principle</strong><br>\n When a sample is spun at high speeds, centrifugal force pushes denser particles to the bottom of the tube (forming a pellet), while the less dense components remain in the liquid above (called the supernatant).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 1: Differential Centrifugation (Pel letting)</strong><br>\n This is a common method to separate proteins and organelles. The sample is spun at a specific speed for a set time.\n <ul>\n <li>Start with a low speed. This pellets large, heavy structures like whole cells or nuclei.</li>\n <li>The liquid supernatant is poured into a new tube and spun at a higher speed. This pellets medium-sized components like mitochondria.</li>\n <li>The process is repeated at even higher speeds to pellet smaller components like ribosomes and finally, the proteins themselves. This allows for a rough separation based on size.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 2: Density Gradient Centrifugation (Finer Separation)</strong><br>\n For a more precise separation, a density gradient is used. A tube is filled with a solution that has increasing density from top to bottom (e.g., a sucrose or cesium chloride gradient). The protein mixture is layered on top.\n <ul>\n <li>When spun at very high speeds, each protein moves through the gradient until it reaches a point where its own density matches the density of the surrounding solution. This is called its isopycnic point.</li>\n <li>Different proteins will form distinct bands at different positions in the tube. Scientists can then carefully collect each band to obtain a highly purified protein.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 3: Collection</strong><br>\n After centrifugation, the separated components can be collected. The pellet is resuspended, and the supernatant can be decanted. In density gradient centrifugation, fractions are collected drop by drop from the bottom of the tube.\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 6a",
+        "topic": [
+            "Biochemistry",
+            "Proteins",
+            "Protein Structure"
+        ],
+        "Question": {
+            "content": "Write on the organizational levels of proteins.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Proteins have four structural levels: primary (amino acid sequence), secondary (local folding like alpha-helices and beta-sheets), tertiary (overall 3D folding of a single polypeptide), and quaternary (arrangement of multiple polypeptide subunits)."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Four Levels of Protein Organization</h4>\n <p>Proteins are not just simple chains of amino acids. They are complex molecules with a hierarchy of structure, from a simple linear sequence to a complex 3D shape. Think of it like building with beads, then twisting that chain, then crumpling it into a ball, and finally gluing several balls together.</p>\n\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Primary Structure: The Linear Sequence</strong><br>\n This is the most basic level. It is simply the unique order in which amino acids are linked together in a chain. This sequence is determined directly by the gene (DNA) that codes for the protein. It's like the specific sequence of letters that spells a word. Even a small change in this sequence can change the protein's final shape and function. The bonds holding this structure together are strong peptide bonds.\n </div>\n\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Secondary Structure: Local Folding</strong><br>\n The primary chain doesn't just lie flat. It begins to fold into regular, repeating patterns stabilized by hydrogen bonds between amino acids that are close to each other in the chain. The two most common patterns are:\n <ul>\n <li><strong>Alpha-Helix:</strong> A right-handed coil or spiral, like a spring or a twisted telephone cord.</li>\n <li><strong>Beta-Pleated Sheet:</strong> A structure where segments of the chain lie side-by-side, forming a sheet that looks like a piece of paper folded in an accordion pattern.</li>\n </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Tertiary Structure: The Overall 3D Shape</strong><br>\n This level describes the complete, three-dimensional folding of a single polypeptide chain. It's the overall shape of the protein. The secondary structure elements (helices and sheets) fold up on each other, and the interactions between the side chains (R-groups) of amino acids stabilize this 3D structure. These interactions include hydrogen bonds, ionic bonds, hydrophobic interactions, and sometimes strong disulfide bridges (covalent bonds between sulfur atoms). This is the level that creates a functional \"globular\" protein like an enzyme.\n </div>\n\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>4. Quaternary Structure: Multiple Subunits</strong><br>\n Some proteins are made up of more than one polypeptide chain, or subunit. The quaternary structure refers to how these individual subunits (each with its own primary, secondary, and tertiary structure) come together and arrange themselves to form a larger, functional protein complex. For example, hemoglobin, the protein that carries oxygen in your blood, is made up of four separate polypeptide subunits that fit together perfectly.\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 6b",
+        "topic": [
+            "Biochemistry",
+            "Proteins",
+            "Denaturation"
+        ],
+        "Question": {
+            "content": "Explain the factors that affect protein denaturation.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Protein denaturation is the loss of a protein's 3D structure, caused by factors like heat, extreme pH, organic solvents, heavy metals, and mechanical agitation."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Factors Affecting Protein Denaturation</h4>\n <p>Denaturation is the process where a protein loses its three-dimensional (tertiary and secondary) structure. Think of it as unraveling a carefully folded piece of origami. The primary structure (the amino acid sequence) remains intact, but the protein loses its biological function because its shape is critical for its job. Several factors can cause this unraveling.</p>\n\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Heat (Temperature Increase)</strong><br>\n This is a very common factor. As temperature rises, atoms in the protein molecule vibrate more vigorously. This increased kinetic energy can break the weak bonds (like hydrogen bonds and hydrophobic interactions) that hold the protein in its specific 3D shape. This is why an egg white turns from clear liquid to white solid when boiled – the heat denatures the albumin proteins. Fever can denature proteins in harmful bacteria, helping our bodies fight infection.\n </div>\n\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Extreme pH Levels (Acidity or Alkalinity)</strong><br>\n Proteins are sensitive to the concentration of hydrogen ions (H+) in their environment. Changing the pH alters the charges on the amino acid side chains. If a positively charged amino acid suddenly loses its charge because of a pH change, it can no longer form an ionic bond with a negatively charged partner. This disrupts the protein's internal bonding and causes it to unfold. Your stomach uses a very acidic pH to denature proteins in food, making them easier to digest.\n </div>\n\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Organic Solvents (e.g., Alcohol, Acetone)</strong><br>\n Many organic solvents can interfere with the hydrophobic interactions inside a protein. In water, hydrophobic amino acids are often buried in the center of the protein. Organic solvents can disrupt the water structure and allow these hydrophobic parts to interact with the solvent instead, causing the protein to unfold. This is why rubbing alcohol can kill bacteria – it denatures their proteins.\n </div>\n\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>4. Heavy Metals (e.g., Lead, Mercury)</strong><br>\n Ions of heavy metals are highly toxic because they can form very strong bonds with the sulfur atoms in disulfide bridges or with other charged groups in proteins. This binding disrupts the protein's normal structure and can permanently inactivate it, especially enzymes.\n </div>\n\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>5. Mechanical Agitation (Shaking or Whipping)</strong><br>\n Vigorous physical action can also denature proteins. For example, when you whip egg whites into a meringue, you are mechanically unfolding the albumin proteins. The unfolded proteins then form new bonds with each other, creating a stable foam that traps air bubbles.\n </div>\n</div>"
+        }
+    },
+  {
+    "type": "heading",
+    "heading": "Section D"
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a",
+    "topic": [
+      "Biochemistry",
+      "Carbohydrates",
+      "Stereochemistry"
+    ],
+    "Question": {
+      "content": "Draw a named Carbohydrate and show the maximum number of stereoisomers one would find in it.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "D-glucose, with 16 stereoisomers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stereoisomers in Carbohydrates</h4>\n  <p><strong>Named Carbohydrate:</strong> D-glucose (an aldohexose).</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Structure:</strong>\n    <p>The Fischer projection of D-glucose is:</p>\n    <p style='font-family: monospace; text-align: center;'>CHO<br> |<br> H–C–OH<br> |<br> HO–C–H<br> |<br> H–C–OH<br> |<br> H–C–OH<br> |<br> CH\u2082OH</p>\n    <p>It has 4 chiral centers (C2, C3, C4, and C5).</p>\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Maximum Number of Stereoisomers:</strong>\n    <p>The formula for calculating the maximum number of stereoisomers is \\(2^n\\), where <em>n</em> is the number of chiral centers.</p>\n    <p>For D-glucose: \\(2^4 = 16\\).</p>\n    <p>Therefore, the maximum number of stereoisomers for a carbohydrate with 4 chiral centers is 16.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7b",
+    "topic": [
+      "Stereochemistry",
+      "Isomerism",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Define enantiomers and give an example.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enantiomers are stereoisomers that are non-superimposable mirror images of each other. Example: D-glyceraldehyde and L-glyceraldehyde."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Enantiomers</h4>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition:</strong>\n    <p>Enantiomers are a pair of molecules that are mirror images of each other but cannot be superimposed on one another. They are chiral molecules that rotate plane-polarized light in opposite directions.</p>\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Characteristics:</strong>\n    <ul>\n      <li>They have identical physical properties (melting point, boiling point) except for their interaction with plane-polarized light.</li>\n      <li>They react identically with achiral reagents but differently with chiral reagents.</li>\n    </ul>\n  </div>\n  <div>\n    <strong style='color: var(--strongColor);'>Example:</strong>\n    <p>D-glyceraldehyde and L-glyceraldehyde are enantiomers. Their structures are mirror images that cannot be superimposed.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7c",
+    "topic": [
+      "Stereochemistry",
+      "Chirality",
+      "Nomenclature"
+    ],
+    "Question": {
+      "content": "Mention two rules of assigning configuration to Chiral Centers.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Priority Rule: Assign priority to substituents based on atomic number. 2. Orientation Rule: Orient the molecule so the lowest priority group points away, then observe the sequence 1→2→3; if clockwise, it's R, if counterclockwise, it's S."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cahn-Ingold-Prelog (CIP) Priority Rules</h4>\n  <p>The R/S system is used to assign absolute configuration to chiral centers based on the following rules:</p>\n  \n  <div style='margin-bottom: 15px;'>\n    <strong style='color: var(--strongColor);'>Rule 1: Priority Assignment</strong>\n    <p>Assign priorities 1, 2, 3, and 4 to the four substituents attached to the chiral center. Priority is determined by the atomic number of the atom directly bonded to the chiral center. Higher atomic number gets higher priority (1 = highest, 4 = lowest).</p>\n    <p><em>Example:</em> I > Br > Cl > S > P > F > O > N > C > H</p>\n  </div>\n  \n  <div style='margin-bottom: 15px;'>\n    <strong style='color: var(--strongColor);'>Rule 2: Orientation and Direction</strong>\n    <p>Orient the molecule so that the group with the lowest priority (#4) is pointing away from you (on the dash or going to the back). Then, observe the sequence of priorities 1 → 2 → 3.</p>\n    <ul>\n      <li>If the sequence 1 → 2 → 3 is <strong>clockwise</strong>, the configuration is designated as <strong>R (Rectus)</strong>.</li>\n      <li>If the sequence 1 → 2 → 3 is <strong>counterclockwise</strong>, the configuration is designated as <strong>S (Sinister)</strong>.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7d",
+    "topic": [
+      "Stereochemistry",
+      "Carbohydrates",
+      "Configuration"
+    ],
+    "Question": {
+      "content": "Draw D- and L-Configurations of glyceraldehyde.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "D-glyceraldehyde: CHO at top, H on left of C2, OH on right of C2, CH2OH at bottom. L-glyceraldehyde: CHO at top, OH on left of C2, H on right of C2, CH2OH at bottom."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>D and L Configurations of Glyceraldehyde</h4>\n  <p>Glyceraldehyde is the simplest carbohydrate (an aldotriose) and serves as the reference for assigning D and L configurations to all other carbohydrates.</p>\n  \n  <div style='margin-bottom: 15px;'>\n    <strong style='color: var(--strongColor);'>The D-Configuration (D-glyceraldehyde):</strong>\n    <p style='font-family: monospace; text-align: center;'>CHO<br> |<br> H–C–OH<br> |<br> CH\u2082OH</p>\n    <p>In the Fischer projection, the -OH group on the chiral carbon (C2) is on the <strong>right</strong> side.</p>\n  </div>\n  \n  <div style='margin-bottom: 15px;'>\n    <strong style='color: var(--strongColor);'>The L-Configuration (L-glyceraldehyde):</strong>\n    <p style='font-family: monospace; text-align: center;'>CHO<br> |<br> HO–C–H<br> |<br> CH\u2082OH</p>\n    <p>In the Fischer projection, the -OH group on the chiral carbon (C2) is on the <strong>left</strong> side.</p>\n  </div>\n  \n  <div>\n    <p><strong>Note:</strong> These two structures are non-superimposable mirror images of each other, making them enantiomers. All other monosaccharides are named based on the configuration of the highest numbered chiral carbon relative to D or L glyceraldehyde.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8a",
+    "topic": [
+      "Biochemistry",
+      "Carbohydrates",
+      "Physiology",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Outline four functions of Carbohydrates.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Energy source (glucose). 2. Energy storage (starch in plants, glycogen in animals). 3. Structural components (cellulose in plants, chitin in arthropods). 4. Cell recognition and signaling (glycoproteins and glycolipids)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Four Key Functions of Carbohydrates</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Energy Source:</strong>\n    <p>Carbohydrates, particularly glucose, are the primary source of energy for cells. Through cellular respiration, glucose is broken down to produce ATP (adenosine triphosphate), which powers cellular activities.</p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Energy Storage:</strong>\n    <p>Plants store energy as starch (amylose and amylopectin), while animals store energy as glycogen in the liver and muscles. These polysaccharides can be broken down into glucose when energy is needed.</p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Structural Components:</strong>\n    <p>Cellulose provides structural support in plant cell walls. Chitin, a modified polysaccharide, forms the exoskeleton of arthropods and cell walls of fungi.</p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>4. Cell Recognition and Signaling:</strong>\n    <p>Carbohydrates attached to proteins (glycoproteins) and lipids (glycolipids) on cell surfaces function as recognition markers. They are involved in cell-cell communication, immune response (blood types), and pathogen recognition.</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8b",
+    "topic": [
+      "Biochemistry",
+      "Carbohydrates",
+      "Organic Chemistry"
+    ],
+    "Question": {
+      "content": "Draw the Haworth structure of a named monosaccharides.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Haworth structure of α-D-glucopyranose: a six-membered ring (pyranose) with the anomeric OH group pointing down (axial) relative to the ring plane."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Haworth Structure of α-D-Glucopyranose</h4>\n  <p>The Haworth projection represents the cyclic form of monosaccharides, showing the ring structure in a planar perspective.</p>\n  \n  <div style='margin-bottom: 15px;'>\n    <strong style='color: var(--strongColor);'>Haworth Structure of α-D-glucopyranose:</strong>\n    <p style='font-family: monospace; text-align: center;'>\n      \u2003 CH\u2082OH<br>\n      \u2003 /\u2003\u2003\u2003\\<br>\n      H\u2003/\u2003\u2003\u2003\u2003\\\u2003H<br>\n      \u2003C\u2003\u2003\u2003\u2003\u2003C<br>\n      /\u2003|\u2003\u2003\u2003\u2003\u2003|\u2003\\<br>\n    OH\u2003C\u2003\u2003\u2003\u2003\u2003C\u2003OH<br>\n      \u2003|\u2003\\\u2003\u2003\u2003\u2003/\u2003|<br>\n      H\u2003\u2003C\u2014C\u2003\u2003H<br>\n      \u2003\u2003\u2003/\\\u2003\u2003/\\<br>\n      \u2003 OH\u2003H H\u2003OH<br>\n    </p>\n    <p><em>Note: The above is a text representation. The actual structure should show a hexagonal ring with oxygen at the top right corner.</em></p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Features of Haworth Structure:</strong>\n    <ul>\n      <li>The ring is formed by a reaction between the carbonyl group (C1) and the hydroxyl group on C5, creating a hemiacetal.</li>\n      <li>The new chiral center formed at C1 is called the <strong>anomeric carbon</strong>.</li>\n      <li>In <strong>α-D-glucopyranose</strong>, the -OH group on the anomeric carbon (C1) points <strong>down</strong> (trans to the CH\u2082OH group at C5).</li>\n      <li>In <strong>β-D-glucopyranose</strong>, the -OH group on the anomeric carbon points <strong>up</strong> (cis to the CH\u2082OH group at C5).</li>\n      <li>Groups that were on the right in the Fischer projection point down in the Haworth (for D-sugars), and groups on the left point up.</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+    {
+        "type": "Question",
+        "name": "Question 8c",
+        "topic": [
+            "Definitions",
+            "Carbohydrates",
+            "Biochemistry"
+        ],
+        "Question": {
+            "content": "What are Ketoses?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Ketoses are monosaccharides (simple sugars) that contain a ketone functional group (\\( >C=O \\)) in their carbon chain."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Ketoses</h4>\n <p>To understand ketoses, we need to break down how sugars are classified. It's all about the most important functional group (the reactive part) in their structure.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. The Key Functional Group: The Ketone</strong><br>\n A ketone is a chemical structure where a carbon atom is double-bonded to an oxygen atom (<span style='font-weight: bold; color: var(--strongColor);'>>C=O</span>), and this carbon is also connected to two other carbon atoms. Think of it as a \"carbonyl\" group (C=O) that's located in the middle of the carbon chain, not at the end.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Where do we find them?</strong><br>\n The most common example of a ketose is <strong>fructose</strong>, which is the sugar found in fruits and honey. Its chemical structure has the ketone group.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Analogy</strong><br>\n Imagine a line of people holding hands (this is your carbon chain).\n \u2022 If the person in the <strong>middle</strong> of the line is holding a special flag (the ketone group), the whole line is called a <strong>Ketose</strong>.\n \u2022 This is different from an <strong>Aldose</strong>, where the person at the very <strong>end</strong> of the line holds the flag.\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 8d",
+        "topic": [
+            "Definitions",
+            "Carbohydrates",
+            "Biochemistry"
+        ],
+        "Question": {
+            "content": "Give four examples of an aldose.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Four examples of aldoses are: 1. Glucose, 2. Galactose, 3. Glyceraldehyde, 4. Ribose."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Aldoses and Their Examples</h4>\n <p>First, let's quickly remember what an aldose is. An aldose is a monosaccharide (simple sugar) that contains an <strong>aldehyde</strong> functional group. Unlike a ketone which is in the middle, an aldehyde group is always at the <strong>end</strong> of the carbon chain (<span style='font-weight: bold; color: var(--strongColor);'>-CHO</span>).</p>\n <p>Now, let's look at four common examples that fit this description:</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Glucose</strong><br>\n This is the most important energy source for living things. It's the sugar your body runs on. Its structure has the aldehyde group at one end.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Galactose</strong><br>\n This sugar is less sweet than glucose and is mostly found combined with glucose to make lactose, the sugar in milk. It's a structural sibling of glucose, also with an aldehyde group.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Glyceraldehyde</strong><br>\n This is the simplest aldose. It's a 3-carbon sugar and serves as the basic building block for understanding all other more complex sugars.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>4. Ribose</strong><br>\n This is a 5-carbon aldose. You might recognize it as the 'R' in RNA (Ribonucleic Acid). It forms the backbone of RNA, which is crucial for protein synthesis and genetic information transfer.\n </div>\n <p>In short, if you remember that aldoses have the aldehyde group at the end, common examples like the ones above become easy to list.</p>\n</div>"
+        }
+    },
+  {
+    "type": "Question",
+    "name": "Question 9a",
+    "topic": ["Biology", "Definitions"],
+    "Question": {
+      "content": "What are enzymes?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enzymes are biological catalysts that speed up chemical reactions in living organisms without being consumed or permanently altered in the process."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Enzymes: The Body's Catalysts</h4>\n <p><strong>Enzymes</strong> are specialized protein molecules (with the exception of some RNA molecules) that function as biological catalysts. They work by lowering the activation energy required for a chemical reaction to occur, which dramatically increases the rate of the reaction. For example, the enzyme amylase in your saliva helps break down starch into sugar much faster than it would happen on its own. Enzymes are highly specific and essential for virtually all metabolic processes in the body, from digestion to DNA replication.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9b",
+    "topic": ["Biology", "Enzymes", "Properties"],
+    "Question": {
+      "content": "State four properties of enzymes.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. They are protein in nature. 2. They are specific in their action. 3. They are sensitive to temperature and pH changes. 4. They are required in small amounts and remain unchanged after the reaction."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Properties of Enzymes</h4>\n <p>Enzymes have several distinct characteristics:</p>\n <ul style='list-style-type: none; padding-left: 0;'>\n   <li style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>1. Protein Nature:</strong> Most enzymes are globular proteins, meaning their structure is crucial for their function.</li>\n   <li style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>2. Specificity:</strong> Each enzyme typically catalyzes only one specific reaction or acts on a specific substrate.</li>\n   <li style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>3. Sensitivity:</strong> Their activity is greatly affected by changes in temperature and pH. Extreme conditions can cause them to denature (lose their shape).</li>\n   <li style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>4. Efficiency and Reusability:</strong> A small number of enzyme molecules can catalyze the conversion of many substrate molecules, and they are not used up in the reaction.</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9c",
+    "topic": ["Biology", "Enzymes", "Specificity"],
+    "Question": {
+      "content": "Explain the various types of enzyme specificity.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enzyme specificity includes: (1) Absolute specificity: enzyme acts on only one substrate. (2) Group specificity: enzyme acts on substrates with a specific functional group. (3) Stereochemical specificity: enzyme acts on a specific optical or geometric isomer. (4) Reaction specificity: enzyme catalyzes only one type of reaction."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Enzyme Specificity</h4>\n <p>The 'lock and key' or 'induced fit' models explain why enzymes are so specific. This specificity can be categorized into different types:</p>\n <ul style='list-style-type: none; padding-left: 0;'>\n   <li style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>1. Absolute Specificity:</strong> The enzyme acts on only one particular substrate. For example, urease catalyzes the breakdown of only urea and not any other compound.</li>\n   <li style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>2. Group Specificity:</strong> The enzyme acts on a group of substrates that contain a specific type of chemical bond or functional group. For example, proteases like trypsin break peptide bonds in various proteins.</li>\n   <li style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>3. Stereochemical Specificity:</strong> The enzyme acts on a specific isomer (e.g., L-amino acids but not D-amino acids). This is crucial in biological systems where chirality matters.</li>\n   <li style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>4. Reaction Specificity:</strong> The enzyme catalyzes only one type of chemical reaction (e.g., oxidation, reduction, hydrolysis), even if the substrate varies.</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10a",
+    "topic": ["Biology", "Enzymes", "Physiology"],
+    "Question": {
+      "content": "Discuss any two factors that affect enzyme action.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Temperature: Enzyme activity increases with temperature up to an optimum point (usually around 37°C in humans), after which it rapidly decreases due to denaturation. 2. pH: Each enzyme has an optimal pH (e.g., pepsin works best at acidic pH 2, while trypsin works best at alkaline pH 8). Deviation from this optimum reduces activity."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Factors Affecting Enzyme Activity</h4>\n <p>Enzyme function is influenced by its environment. Here are two major factors:</p>\n <ul style='list-style-type: none; padding-left: 0;'>\n   <li style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>Temperature:</strong> As temperature rises, molecular movement increases, leading to more frequent enzyme-substrate collisions (increased activity). However, enzymes are proteins. Beyond an optimal temperature (usually around 40°C for human enzymes), the heat causes the enzyme's structure to unravel or <strong>denature</strong>, permanently destroying its active site and stopping its function.</li>\n   <li style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>pH (Acidity/Alkalinity):</strong> Each enzyme has an optimal pH range. Changes in pH can alter the charges on the amino acids at the enzyme's active site, affecting its shape and its ability to bind to the substrate. For instance, the stomach enzyme pepsin works best in highly acidic conditions, while intestinal enzymes function best in a neutral to slightly basic environment.</li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10b.i",
+    "topic": ["Biology", "Enzymes", "Biochemistry", "Equations"],
+    "Question": {
+      "content": "Show the transformation of the Michaelis-Menten equation to the Lineweaver-Burk equation.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Starting from \\( V = \\frac{V_{max} [S]}{K_m + [S]} \\). Taking the reciprocal of both sides gives \\( \\frac{1}{V} = \\frac{K_m + [S]}{V_{max} [S]} \\). This simplifies to \\( \\frac{1}{V} = \\frac{K_m}{V_{max}} \\cdot \\frac{1}{[S]} + \\frac{1}{V_{max}} \\), which is the Lineweaver-Burk equation in the form \\( y = mx + c \\)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Deriving the Double-Reciprocal Plot</h4>\n <p>The Michaelis-Menten equation describes the rate of enzymatic reactions. To make it easier to plot and find values like \\( K_m \\) and \\( V_{max} \\), we transform it mathematically:</p>\n <p><strong>1. Start with the Michaelis-Menten equation:</strong></p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( V = \\frac{V_{max} \\cdot [S]}{K_m + [S]} \\)</p>\n <p><strong>2. Take the reciprocal of both sides:</strong></p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( \\frac{1}{V} = \\frac{K_m + [S]}{V_{max} \\cdot [S]} \\)</p>\n <p><strong>3. Separate the fraction on the right-hand side:</strong></p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( \\frac{1}{V} = \\frac{K_m}{V_{max} \\cdot [S]} + \\frac{[S]}{V_{max} \\cdot [S]} \\)</p>\n <p><strong>4. Simplify the equation:</strong></p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( \\frac{1}{V} = \\frac{K_m}{V_{max}} \\cdot \\frac{1}{[S]} + \\frac{1}{V_{max}} \\)</p>\n <p>This is the <strong>Lineweaver-Burk equation</strong>. It is in the form of a straight line, where \\( y = 1/V \\), \\( x = 1/[S] \\), the slope \\( m = K_m / V_{max} \\), and the y-intercept \\( c = 1 / V_{max} \\).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10b.ii",
+    "topic": ["Biology", "Enzymes", "Biochemistry"],
+    "Question": {
+      "content": "Show that at half maximum velocity (½ Vmax) the Michaelis-Menten constant (Km) equals the substrate concentration [S].",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Starting from \\( V = \\frac{V_{max} [S]}{K_m + [S]} \\), substitute \\( V = \\frac{1}{2} V_{max} \\): \\( \\frac{1}{2} V_{max} = \\frac{V_{max} [S]}{K_m + [S]} \\). Cancel \\( V_{max} \\) to get \\( \\frac{1}{2} = \\frac{[S]}{K_m + [S]} \\). Cross-multiply: \\( K_m + [S] = 2[S] \\). Therefore, \\( K_m = [S] \\)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Deriving the Meaning of \\( K_m \\)</h4>\n <p>The Michaelis constant \\( K_m \\) is a very important value. It represents the substrate concentration at which the reaction rate is half of its maximum value. Let's prove this mathematically.</p>\n <p><strong>1. Start with the standard equation:</strong></p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( V = \\frac{V_{max} \\cdot [S]}{K_m + [S]} \\)</p>\n <p><strong>2. Set the condition for half maximum velocity:</strong></p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( V = \\frac{1}{2} V_{max} \\)</p>\n <p><strong>3. Substitute this into the equation:</strong></p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( \\frac{1}{2} V_{max} = \\frac{V_{max} \\cdot [S]}{K_m + [S]} \\)</p>\n <p><strong>4. Simplify by canceling \\( V_{max} \\) from both sides:</strong></p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( \\frac{1}{2} = \\frac{[S]}{K_m + [S]} \\)</p>\n <p><strong>5. Cross-multiply to solve for \\( K_m \\):</strong></p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( K_m + [S] = 2[S] \\)</p>\n <p><strong>6. Rearrange to find the result:</strong></p>\n <p style='font-size: 1.2rem; text-align: center;'>\\( K_m = 2[S] - [S] \\)</p>\n <p style='font-size: 1.2rem; text-align: center; font-weight: bold;'>\\( K_m = [S] \\)</p>\n <p>This confirms that \\( K_m \\) is numerically equal to the substrate concentration when the reaction velocity is half of \\( V_{max} \\).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10c",
+    "topic": ["Biology", "Enzymes", "Inhibition", "Graphs"],
+    "Question": {
+      "content": "Using Lineweaver-Burk plots, illustrate the patterns of competitive and non-competitive inhibition.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competitive inhibition: Lines intersect on the y-axis (same 1/Vmax, different Km). Non-competitive inhibition: Lines intersect on the x-axis (same Km, different 1/Vmax)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Interpreting Inhibition on a Double-Reciprocal Plot</h4>\n <p>The Lineweaver-Burk plot (1/V vs. 1/[S]) gives straight lines, making it easy to see how inhibitors change an enzyme's kinetics.</p>\n <div style='margin-bottom: 20px;'>\n   <strong style='color: var(--strongColor);'>Competitive Inhibition</strong><br>\n   <p>The inhibitor binds to the active site, competing with the substrate. This can be overcome by adding more substrate.</p>\n   <ul>\n     <li><strong>On the plot:</strong> The lines for 'no inhibitor' and '+ competitive inhibitor' intersect on the <strong>y-axis</strong>.</li>\n     <li><strong>Meaning:</strong> The y-intercept (\\( 1/V_{max} \\)) is the same, so \\( V_{max} \\) is unchanged. The slope (\\( K_m/V_{max} \\)) increases, meaning \\( K_m \\) (substrate affinity) increases (apparent affinity decreases).</li>\n   </ul>\n </div>\n <div>\n   <strong style='color: var(--strongColor);'>Non-Competitive Inhibition</strong><br>\n   <p>The inhibitor binds to a site other than the active site, changing the enzyme's shape. Adding more substrate does NOT overcome this.</p>\n   <ul>\n     <li><strong>On the plot:</strong> The lines for 'no inhibitor' and '+ non-competitive inhibitor' intersect on the <strong>x-axis</strong>.</li>\n     <li><strong>Meaning:</strong> The x-intercept ( \\( -1/K_m \\) ) is the same, so \\( K_m \\) is unchanged. The y-intercept (\\( 1/V_{max} \\)) is higher, meaning \\( V_{max} \\) (maximum reaction rate) is decreased.</li>\n   </ul>\n </div>\n <p style='margin-top: 15px; font-style: italic;'>Imagine drawing two lines starting from different points on the y-axis (for competitive) or x-axis (for non-competitive) to visualize this.</p>\n</div>"
+    }
+  }
+]
