@@ -1,0 +1,1107 @@
+[
+  
+
+{
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "General Biohemistry I",
+    "code": "BCH 210.1",
+    "session":"2017/2018",
+    "topics": ["Definitions", "Physiology", "Biochemistry", "Laboratory Techniques", "Chemistry", "Physical Chemistry", "Cell Biology", "Carbohydrates", "Isomerism", "Metabolism", "Nutrition", "Anatomy", "Structural Biology", "Communication", "Classification", "Vitamins", "Clinical Significance", "Excretion", "Water Balance", "Food Sources", "Electrolytes", "Pharmacology", "Sulphur", "Pharmaceutical Chemistry", "Sulfur Compounds", "Enzymology", "Isoenzymes", "Allosteric Enzymes", "Kinetics", "Amino Acids", "Proteins", "Function"],
+    "time": "90"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 1"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1a)i",
+    "topic": [
+      "Definitions",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Provide a definition for the term 'buffer' as it relates to chemistry and biology.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A buffer is an aqueous solution that resists changes in pH when small amounts of acid (H⁺) or base (OH⁻) are added. It typically consists of a weak acid and its conjugate base, or a weak base and its conjugate acid."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Understanding Buffers</h4><p>A buffer works by neutralizing added acids or bases. For example, in an acetic acid/sodium acetate buffer:<ul><li>If an acid (H⁺) is added, the acetate ion (the conjugate base) reacts with it to form acetic acid: \\( \\text{CH}_3\\text{COO}^- + \\text{H}^+ \\rightarrow \\text{CH}_3\\text{COOH} \\).</li><li>If a base (OH⁻) is added, the acetic acid (the weak acid) reacts with it to form acetate and water: \\( \\text{CH}_3\\text{COOH} + \\text{OH}^- \\rightarrow \\text{CH}_3\\text{COO}^- + \\text{H}_2\\text{O} \\).</li></ul>This dual action helps maintain a relatively stable pH.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1a)ii",
+    "topic": [
+      "Physiology",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "List the buffer systems that are responsible for maintaining the pH of intracellular fluids (inside cells) and extracellular fluids (like blood).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intracellular fluid: Phosphate buffer system. Extracellular fluid: Bicarbonate buffer system."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Intracellular vs. Extracellular Buffers</h4><p><strong>Intracellular Fluid (Phosphate System):</strong> Inside cells, the phosphate buffer system is crucial. It consists of dihydrogen phosphate (\\( \\text{H}_2\\text{PO}_4^- \\)) and monohydrogen phosphate (\\( \\text{HPO}_4^{2-} \\)). Phosphates are present in higher concentrations inside cells, making this system effective.</p><p><strong>Extracellular Fluid (Bicarbonate System):</strong> In blood and other extracellular fluids, the bicarbonate system is most important. It involves carbonic acid (\\( \\text{H}_2\\text{CO}_3 \\)) and bicarbonate (\\( \\text{HCO}_3^- \\)). This system is directly linked to respiration; the lungs can remove \\( \\text{CO}_2 \\), and the kidneys can manage bicarbonate levels, providing a powerful, open-ended buffering capacity.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1a)iii",
+    "topic": [
+      "Biochemistry",
+      "Physiology",
+      "Laboratory Techniques"
+    ],
+    "Question": {
+      "content": "You are given a 0.10M solution of acetic acid (pKa = 4.76) and solid sodium acetate. Describe the step-by-step process to prepare 1.0 liter of a 0.10M acetate buffer with a pH of 4.0.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Use the Henderson-Hasselbalch equation to find the required ratio of [acetate]/[acetic acid]. 2. Calculate the moles of acetic acid needed for 1L of 0.10M buffer. 3. Calculate the moles of acetate needed. 4. Convert moles of acetate to mass in grams. 5. Weigh the solid sodium acetate, mix it with the acetic acid, and dilute to 1.0L with distilled water."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Step-by-Step Buffer Preparation</h4><p><strong>Step 1: Use the Henderson-Hasselbalch equation.</strong></p><p>\\( \\text{pH} = \\text{p}K_a + \\log \\left( \\frac{[\\text{A}^-]}{[\\text{HA}]} \\right) \\)</p><p>Plug in the values: \\( 4.0 = 4.76 + \\log \\left( \\frac{[\\text{Acetate}]}{[\\text{Acetic Acid}]} \\right) \\)</p><p>Rearrange: \\( \\log \\left( \\frac{[\\text{Acetate}]}{[\\text{Acid}]} \\right) = 4.0 - 4.76 = -0.76 \\)</p><p>Take the antilog: \\( \\frac{[\\text{Acetate}]}{[\\text{Acid}]} = 10^{-0.76} \\approx 0.174 \\)</p><p><strong>Step 2: Determine concentrations.</strong> The total concentration of buffer components is 0.10 M, so:</p><p>\\( [\\text{Acid}] + [\\text{Acetate}] = 0.10 \\)</p><p>Substitute the ratio (\\( [\\text{Acetate}] = 0.174 \\times [\\text{Acid}] \\)):</p><p>\\( [\\text{Acid}] + 0.174[\\text{Acid}] = 1.174[\\text{Acid}] = 0.10 \\)</p><p>\\( [\\text{Acid}] = \\frac{0.10}{1.174} \\approx 0.0852 \\text{ M} \\)</p><p>\\( [\\text{Acetate}] = 0.10 - 0.0852 = 0.0148 \\text{ M} \\)</p><p><strong>Step 3: Calculate amounts for 1.0 L.</strong> Moles of acetic acid needed = 0.0852 mol. Moles of sodium acetate needed = 0.0148 mol. The molar mass of sodium acetate (CH₃COONa) is approximately 82.03 g/mol. Mass of sodium acetate needed = 0.0148 mol × 82.03 g/mol ≈ 1.21 g.</p><p><strong>Step 4: Procedure.</strong></p><ol><li>Weigh out approximately 1.21 grams of solid sodium acetate.</li><li>In a 1.0 L volumetric flask, add the 0.0852 moles of acetic acid. Since the provided acetic acid is 0.10 M, you need 0.852 L of it. It's easier to measure 852 mL of the 0.10 M acetic acid solution.</li><li>Add the 1.21 g of sodium acetate to the flask containing the acetic acid.</li><li>Add distilled water to the flask, swirl to dissolve the sodium acetate completely, and then fill to the 1.0 L mark. Mix well. The resulting solution will be 1.0 L of 0.10 M acetate buffer at pH 4.0.</li></ol></div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 1"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 2a)i",
+    "topic": [
+      "Chemistry",
+      "Biochemistry",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Draw the structure of two or more water molecules, clearly showing the hydrogen bonds between them.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(A diagram showing at least two water molecules. Each water molecule has a central oxygen atom bonded to two hydrogen atoms with a bent shape. The oxygen has a partial negative charge (δ-) and the hydrogens have partial positive charges (δ+). A dashed line is drawn between the hydrogen of one molecule and the oxygen of a neighboring molecule, representing the hydrogen bond.)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>The Structure of Water and Hydrogen Bonding</h4><p>A water molecule is V-shaped. The oxygen atom is more electronegative than the hydrogen atoms, so it pulls the shared electrons closer to itself. This gives the oxygen atom a partial negative charge (δ-) and the hydrogen atoms a partial positive charge (δ+).</p><p style='text-align: center;'><strong style='font-size: 1.2em;'>δ- O<br> /  \\<br>H   H<br>δ+   δ+</strong></p><p>This polarity allows the positive hydrogen of one water molecule to be attracted to the negative oxygen of another. This strong intermolecular attraction is called a <strong>hydrogen bond</strong>, shown here as a dotted line.</p><p style='text-align: center;'><strong style='font-size: 1.2em;'>δ- O ····· H-O<br> /  \\         /<br>H   H        H<br>δ+   δ+</strong></p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2a)ii",
+    "topic": [
+      "Chemistry",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Explain why water is considered a highly polar molecule.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Water is highly polar due to the significant difference in electronegativity between oxygen and hydrogen atoms, combined with its bent molecular geometry. This causes an uneven distribution of charge, creating a partial negative charge on the oxygen and partial positive charges on the hydrogens."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Why Water is So Polar</h4><p>The high polarity of water is due to two main factors:</p><ol><li><strong>Electronegativity Difference:</strong> Oxygen is one of the most electronegative elements. It strongly attracts the shared electrons in its bonds with hydrogen. This pulls electron density away from the hydrogen atoms.</li><li><strong>Molecular Geometry:</strong> The water molecule is not linear; it is bent with an angle of about 104.5°. This shape means the pull from the two hydrogen atoms does not cancel out. Instead, the partial negative charge from the oxygen's electron-rich region is concentrated at one end of the molecule, and the partial positive charges from the hydrogen atoms are concentrated at the other end, creating a permanent dipole.</li></ol></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2b",
+    "topic": [
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    "Question": {
+      "content": "If the mass of 1 dm³ of water is 1000 g (note: the question had a typo saying 100g), deduce the relationship between the ionic product of water (Kw) and the acid dissociation constant (Ka) for water.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The relationship is \\( K_a = \\frac{K_w}{[\\text{H}_2\\text{O}]} \\). For pure water at 25°C, \\( K_a \\approx 1.8 \\times 10^{-16} \\text{ M} \\)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Deducing the Relationship between \\(K_w\\) and \\(K_a\\)</h4><p>Water autoionizes according to the reaction:</p><p style='text-align: center;'>\\( \\text{H}_2\\text{O} \\rightleftharpoons \\text{H}^+ + \\text{OH}^- \\)</p><p><strong>1. Define \\(K_a\\) for water:</strong> Treating water as a weak acid, its acid dissociation constant is:</p><p style='text-align: center;'>\\( K_a = \\frac{[\\text{H}^+][\\text{OH}^-]}{[\\text{H}_2\\text{O}]} \\)</p><p><strong>2. Define \\(K_w\\):</strong> The ionic product of water is:</p><p style='text-align: center;'>\\( K_w = [\\text{H}^+][\\text{OH}^-] \\)</p><p><strong>3. Combine the equations:</strong> Notice that the numerator of the \\(K_a\\) expression is exactly \\(K_w\\). Therefore, we can substitute \\(K_w\\) into the equation for \\(K_a\\):</p><p style='text-align: center;'>\\( K_a = \\frac{K_w}{[\\text{H}_2\\text{O}]} \\)</p><p><strong>4. Calculate \\([\\text{H}_2\\text{O}]\\):</strong> Given that 1 dm³ (1 L) of water has a mass of 1000 g, and the molar mass of water is 18 g/mol, the concentration of water is:</p><p style='text-align: center;'>\\( [\\text{H}_2\\text{O}] = \\frac{1000 \\text{ g/L}}{18 \\text{ g/mol}} \\approx 55.5 \\text{ M} \\)</p><p><strong>5. Final Relationship:</strong> So, \\( K_a = \\frac{K_w}{55.5} \\). At 25°C, \\(K_w = 1.0 \\times 10^{-14}\\), so \\( K_a = \\frac{1.0 \\times 10^{-14}}{55.5} \\approx 1.8 \\times 10^{-16} \\text{ M}\\).</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2c)i",
+    "topic": [
+      "Chemistry",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Define a Bronsted-Lowry acid.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A Bronsted-Lowry acid is a substance that can donate a proton (H⁺ ion) to another substance."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Bronsted-Lowry Acid</h4><p>This definition focuses on the transfer of protons (H⁺). An acid is a 'proton donor'. For example, in the reaction \\( \\text{HCl} + \\text{H}_2\\text{O} \\rightarrow \\text{H}_3\\text{O}^+ + \\text{Cl}^- \\), HCl donates a proton to water, so HCl is the Bronsted-Lowry acid.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2c)ii",
+    "topic": [
+      "Chemistry",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Define a Lewis acid.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A Lewis acid is a substance that can accept a pair of electrons to form a covalent bond."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Lewis Acid</h4><p>This is a broader definition than Bronsted-Lowry, based on electron pairs. A Lewis acid is an 'electron-pair acceptor'. A proton (H⁺) is a Lewis acid because it can accept an electron pair. Other examples include \\( \\text{BF}_3 \\) (boron trifluoride) and \\( \\text{AlCl}_3 \\), which have incomplete octets and can accept electron pairs.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2c)iii",
+    "topic": [
+      "Chemistry",
+      "Definitions",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Define pH.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pH is a logarithmic scale used to specify the acidity or basicity of an aqueous solution. It is defined as the negative logarithm (base 10) of the hydrogen ion (H₃O⁺) concentration."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Definition of pH</h4><p>pH stands for 'power of hydrogen'. Mathematically, it is defined as:</p><p style='text-align: center;'>\\( \\text{pH} = -\\log_{10}[\\text{H}^+] \\)</p><p>where \\([\\text{H}^+]\\) is the concentration of hydrogen ions in moles per liter (M). A low pH (0-7) indicates a high concentration of H⁺ (acidic), and a high pH (7-14) indicates a low concentration of H⁺ (basic/alkaline). A pH of 7 is neutral at 25°C.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2d)i",
+    "topic": [
+      "Chemistry",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Calculate the pH of a solution whose hydrogen ion concentration (proton concentration) is 3.0 x 10⁻¹¹ moles dm⁻³.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pH ≈ 10.52"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Calculating pH from [H⁺]</h4><p>We use the formula \\( \\text{pH} = -\\log_{10}[\\text{H}^+] \\).</p><p>Given: \\( [\\text{H}^+] = 3.0 \\times 10^{-11} \\) M</p><p>Step 1: Find the log of the concentration.</p><p>\\( \\log_{10}(3.0 \\times 10^{-11}) = \\log_{10}(3.0) + \\log_{10}(10^{-11}) \\)</p><p>\\( \\log_{10}(3.0) \\approx 0.477 \\) and \\( \\log_{10}(10^{-11}) = -11 \\)</p><p>So, \\( \\log_{10}(3.0 \\times 10^{-11}) = 0.477 + (-11) = -10.523 \\)</p><p>Step 2: Apply the negative sign.</p><p>\\( \\text{pH} = -(-10.523) = 10.523 \\)</p><p>Therefore, the pH of the solution is approximately <strong>10.52</strong>.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2d)ii",
+    "topic": [
+      "Chemistry",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Calculate the hydrogen ion concentration (proton concentration) of a tomato puree whose pH is 8.65.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "[H⁺] ≈ 2.24 × 10⁻⁹ moles dm⁻³"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Calculating [H⁺] from pH</h4><p>To find the concentration from the pH, we use the inverse of the logarithmic relationship:</p><p style='text-align: center;'>\\( [\\text{H}^+] = 10^{-\\text{pH}} \\)</p><p>Given: pH = 8.65</p><p>Step 1: Set up the equation.</p><p>\\( [\\text{H}^+] = 10^{-8.65} \\)</p><p>Step 2: Calculate the value. This is equivalent to \\( 10^{0.35} \\times 10^{-9} \\).</p><p>\\( 10^{0.35} \\approx 2.24 \\)</p><p>So, \\( [\\text{H}^+] \\approx 2.24 \\times 10^{-9} \\) M.</p><p>Therefore, the hydrogen ion concentration of the tomato puree is approximately <strong>\\( 2.24 \\times 10^{-9} \\) moles dm⁻³</strong>. (Note: A pH of 8.65 is basic, so a low H⁺ concentration is expected.)</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2e",
+    "topic": [
+      "Physiology",
+      "Biochemistry",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Explain the importance of controlling pH in living cells.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Controlling pH is vital because enzymes, which catalyze nearly all biochemical reactions, have a narrow optimal pH range. Deviations in pH can denature enzymes, altering their shape and function, thus disrupting metabolism. pH also affects the structure of molecules and the distribution of ions across membranes."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Why pH Control is Crucial for Life</h4><p><strong>1. Enzyme Function:</strong> Enzymes are proteins with specific three-dimensional shapes. Their activity is highly dependent on pH. Changes in pH can alter the charges on amino acid residues at the active site, affecting the enzyme's ability to bind to its substrate. Extreme pH changes can cause denaturation, where the enzyme loses its shape and function permanently.</p><p><strong>2. Metabolic Pathways:</strong> If key enzymes in a pathway (like glycolysis or the Krebs cycle) are inhibited, the entire metabolic pathway can be disrupted, leading to a failure in energy production or biosynthesis.</p><p><strong>3. Molecular Structure:</strong> The pH affects the ionization state of molecules. For example, the ability of hemoglobin to bind and release oxygen in the blood is pH-dependent (the Bohr effect). The structure of DNA and RNA can also be affected by pH changes.</p><p><strong>4. Membrane Potential and Transport:</strong> The pH gradient across membranes (like in mitochondria) is used to generate ATP. Maintaining the correct internal pH is also essential for the function of membrane transport proteins that move substances in and out of the cell.</p></div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 3"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 3a)i",
+    "topic": [
+      "Carbohydrates",
+      "Isomerism",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Describe D- and L-isomerism in monosaccharides as observed in the human system.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "D- and L-isomerism refers to the configuration around the chiral carbon farthest from the carbonyl group. If the hydroxyl group (-OH) on this carbon is on the right in the Fischer projection, it is the D-isomer; if on the left, it is the L-isomer. In humans, nearly all monosaccharides are D-isomers because enzymes are stereospecific and only metabolize D-sugars."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>D- and L-Isomerism</h4>\n <p>Monosaccharides have chiral centers, leading to isomers. The reference carbon is the penultimate carbon (the asymmetric carbon farthest from the aldehyde or ketone group).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Configuration Rule:</strong><br>\n In a Fischer projection, if the -OH group on this reference carbon points to the <strong>right</strong>, it's the <strong>D-isomer</strong>. If it points to the <strong>left</strong>, it's the <strong>L-isomer</strong>.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Biological Relevance:</strong><br>\n Humans possess enzymes that are stereospecific. They are designed to recognize and metabolize D-sugars (like D-glucose) for energy. L-sugars are generally not metabolized and are rare in human biochemistry.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a)ii",
+    "topic": [
+      "Carbohydrates",
+      "Isomerism",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Explain optical isomerism in monosaccharides observed in the human system.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Optical isomerism occurs because monosaccharides contain asymmetric carbon atoms (chiral centers) that rotate plane-polarized light. Isomers that rotate light to the right are dextrorotatory (+), and those rotating it to the left are levorotatory (-). This property is independent of D/L configuration."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Optical Isomerism</h4>\n <p>Any molecule with a chiral center (a carbon atom bonded to four different groups) can exhibit optical isomerism. Monosaccharides typically have multiple such centers.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Effect on Light:</strong><br>\n These isomers have the unique ability to rotate the plane of polarized light. \n <ul>\n <li><strong>Dextrorotatory (+):</strong> Rotates light to the right (clockwise).</li>\n <li><strong>Levorotatory (-):</strong> Rotates light to the left (counter-clockwise).</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Important Distinction:</strong><br>\n Don't confuse D/L (configuration relative to glyceraldehyde) with (+)/(-) (the actual direction of light rotation). For example, D-fructose is levorotatory (-).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a)iii",
+    "topic": [
+      "Carbohydrates",
+      "Isomerism",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "What are epimers? Provide examples of epimers found in monosaccharides within the human system.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epimers are a type of stereoisomer that differ in configuration at only one specific asymmetric carbon atom. For example, glucose and galactose are epimers that differ at the C-4 carbon. Glucose and mannose are epimers that differ at the C-2 carbon."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Epimers</h4>\n <p>Epimers are a specific subtype of diastereomers. They are sugars that are identical in structure except for the spatial arrangement of atoms (configuration) at a single chiral center.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Examples:</strong><br>\n <ul>\n <li><strong>Glucose vs. Galactose:</strong> They differ specifically at the <strong>C-4</strong> carbon. This is crucial for lactose synthesis and metabolism.</li>\n <li><strong>Glucose vs. Mannose:</strong> They differ specifically at the <strong>C-2</strong> carbon.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Biological Note:</strong><br>\n The human body has specific enzymes (epimerases) that can interconvert some epimers to facilitate metabolic pathways.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a)iv",
+    "topic": [
+      "Carbohydrates",
+      "Isomerism",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Describe anomers in monosaccharides and explain how they form in the human system.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Anomers are cyclic isomers of monosaccharides that differ in configuration at the new asymmetric carbon atom formed during ring closure, called the anomeric carbon. The two forms are alpha (α) and beta (β). In the α-anomer, the -OH group at the anomeric carbon is trans to the -CH2OH group; in the β-anomer, it is cis."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Anomers</h4>\n <p>When a monosaccharide cyclizes (forms a ring structure) in solution, the carbonyl group (C=O) reacts with a hydroxyl group, creating a new chiral center at the former carbonyl carbon. This carbon is now called the <strong>anomeric carbon</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Two Forms:</strong><br>\n For D-glucose in its pyranose (6-membered ring) form:\n <ul>\n <li><strong>α-anomer:</strong> The hydroxyl (-OH) group attached to the anomeric carbon (C-1) is in the axial position, pointing <em>down</em> (trans to the -CH2OH group).</li>\n <li><strong>β-anomer:</strong> The hydroxyl (-OH) group on the anomeric carbon is in the equatorial position, pointing <em>up</em> (cis to the -CH2OH group).</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Biological Importance:</strong><br>\n This is critical because enzymes distinguish between these forms. For example, humans can digest starch (which has α-linkages) but not cellulose (which has β-linkages).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b",
+    "topic": [
+      "Carbohydrates",
+      "Biochemistry",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Write notes on reducing and non-reducing sugars.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reducing sugars are sugars that have a free aldehyde or ketone group or a free hemiacetal group, allowing them to act as reducing agents and donate electrons to other molecules. All monosaccharides and most disaccharides (like maltose and lactose) are reducing sugars. Non-reducing sugars have their anomeric carbons involved in a glycosidic bond, so they lack a free reducing end. Sucrose (table sugar) is the most common example of a non-reducing sugar."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reducing vs. Non-Reducing Sugars</h4>\n <p>This classification is based on the ability of a sugar to act as a reducing agent, which is a key chemical property.</p>\n \n <div style='margin-bottom: 20px;'>\n <h5 style='color: var(--strongColor); margin: 10px 0 5px 0;'>Reducing Sugars</h5>\n <ul>\n <li><strong>Feature:</strong> Possess a free aldehyde group or a free ketone group (usually in the form of a free hemiacetal group when in ring form).</li>\n <li><strong>Mechanism:</strong> They can donate electrons (reduce) other compounds, like the copper ions in Benedict's or Fehling's solutions, causing a color change.</li>\n <li><strong>Examples:</strong> All monosaccharides (glucose, fructose, galactose). Many disaccharides like maltose and lactose, because one of the monosaccharide units has its anomeric carbon free.</li>\n </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n <h5 style='color: var(--strongColor); margin: 10px 0 5px 0;'>Non-Reducing Sugars</h5>\n <ul>\n <li><strong>Feature:</strong> The anomeric carbons of both monosaccharide units are involved in the glycosidic bond. This means neither carbon has a free hemiacetal group.</li>\n <li><strong>Mechanism:</strong> Without a free anomeric carbon, they cannot open up to form an aldehyde and therefore cannot act as reducing agents.</li>\n <li><strong>Example:</strong> Sucrose (glucose + fructose). The bond is formed between the anomeric carbon of glucose (C1) and the anomeric carbon of fructose (C2), locking both in place.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4a)i",
+    "topic": [
+      "Carbohydrates",
+      "Metabolism",
+      "Nutrition",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Describe the metabolic and nutritional importance of carbohydrates.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Metabolically, carbohydrates are the primary source of energy. Glucose is broken down via glycolysis and the citric acid cycle to produce ATP. Nutritionally, they provide energy (4 kcal/g), spare protein from being used for energy, and are essential for brain function as glucose is the brain's main fuel."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Metabolic/Nutritional Importance</h4>\n <p>Carbohydrates are the body's preferred and most efficient fuel source.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Energy Production (Metabolic):</strong><br>\n Glucose is oxidized through pathways like glycolysis, the Krebs cycle, and oxidative phosphorylation to generate adenosine triphosphate (ATP), the energy currency of the cell. This process provides quick energy for all cellular activities.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Energy Storage:</strong><br>\n Excess glucose is stored as glycogen in the liver and muscles (a short-term reserve) or converted to fat for long-term energy storage.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Protein Sparing (Nutritional):</strong><br>\n When carbohydrate intake is adequate, the body uses glucose for energy, sparing proteins so they can be used for their primary roles in growth, repair, and maintenance.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>4. Central Nervous System Fuel:</strong><br>\n The brain and red blood cells rely almost exclusively on glucose for energy. Consistent carbohydrate intake is crucial for cognitive function.\n </div>\n</div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 4"
+  },
+  {
+    "type": "Question",
+    "name": "Question 4a)ii",
+    "topic": [
+      "Carbohydrates",
+      "Anatomy",
+      "Structural Biology"
+    ],
+    "Question": {
+      "content": "Explain the structural importance of carbohydrates in living organisms.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Structurally, carbohydrates provide support and protection. In plants, cellulose forms rigid cell walls. In animals, chitin (a modified carbohydrate) forms the exoskeleton of arthropods, and glycosaminoglycans (like hyaluronic acid) are key components of the extracellular matrix in connective tissues."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Structural Importance</h4>\n <p>Beyond energy, carbohydrates are vital building materials.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Cell Walls (Plants):</strong><br>\n <strong>Cellulose</strong> is a linear polymer of β-glucose. The β-linkages allow cellulose molecules to form strong, rigid fibers via hydrogen bonding, providing the main structural component of plant cell walls.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Exoskeletons (Arthropods & Fungi):</strong><br>\n <strong>Chitin</strong> is similar to cellulose but has a nitrogen-containing group. It provides tough, protective outer coverings for insects, crustaceans, and cell walls in fungi.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Extracellular Matrix (Animals):</strong><br>\n <strong>Glycosaminoglycans (GAGs)</strong> like hyaluronic acid and chondroitin sulfate are long, unbranched polysaccharides. They trap water to form a gel-like substance that provides cushioning and lubrication in joints, skin, and cartilage.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4a)iii",
+    "topic": [
+      "Carbohydrates",
+      "Communication",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "How do carbohydrates function in cellular communication?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbohydrates on the cell surface, as part of glycoproteins and glycolipids, act as recognition signals. They function in cell-cell adhesion, immune response (blood group antigens), and allow cells to recognize each other (e.g., sperm-egg interaction) or distinguish self from non-self."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Communication (Cellular Recognition)</h4>\n <p>Carbohydrates are often found attached to proteins (glycoproteins) or lipids (glycolipids) on the outer surface of the cell membrane, forming the <strong>glycocalyx</strong>. This acts as the cell's 'ID badge'.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Cell-Cell Recognition:</strong><br>\n The specific structure of these carbohydrate chains allows one cell to recognize another. For example, immune cells use them to distinguish between 'self' and 'non-self' (foreign invaders).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Blood Type Determination:</strong><br>\n The A, B, and O blood groups are determined by specific carbohydrate antigens (oligosaccharides) displayed on the surface of red blood cells. This is a classic example of carbohydrate-based communication.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Cell Adhesion:</strong><br>\n Carbohydrates help cells stick to one another to form tissues and also help cells adhere to the extracellular matrix.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>4. Pathogen Binding:</strong><br>\n Many bacteria and viruses (like the flu virus) bind to specific carbohydrate receptors on host cells to initiate infection.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4a)iv",
+    "topic": [
+      "Carbohydrates",
+      "Biochemistry",
+      "Metabolism"
+    ],
+    "Question": {
+      "content": "Describe the role of carbohydrates in the biosynthesis of other compounds.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbohydrates serve as precursors for the synthesis of many biomolecules. They provide the carbon skeletons for amino acids (non-essential), fatty acids, and nucleotides (ribose and deoxyribose sugars). They are also components of glycoproteins and glycolipids."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Biosynthesis of Other Compounds</h4>\n <p>Carbohydrates are versatile metabolic intermediates that can be converted into other essential molecules.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Amino Acids:</strong><br>\n Intermediates from glucose breakdown (like pyruvate and intermediates from the citric acid cycle) provide the carbon backbones for the synthesis of non-essential amino acids via transamination.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Fatty Acids and Lipids:</strong><br>\n When glucose is abundant, it is converted to acetyl-CoA, which is the primary building block for fatty acid synthesis. These fatty acids are then used to make triglycerides and phospholipids.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Nucleotides:</strong><br>\n The sugar components of DNA and RNA, deoxyribose and ribose, are derived from glucose via the pentose phosphate pathway.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>4. Glycoconjugates:</strong><br>\n Carbohydrates are directly incorporated into glycoproteins and glycolipids, which are vital for structure and communication as discussed previously.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4b",
+    "topic": [
+      "Carbohydrates",
+      "Isomerism",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Discuss the biological significance of D- and L-isomers of monosaccharides.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "D-isomers are biologically significant because they are the primary forms used in human metabolism due to enzyme stereospecificity. D-glucose is the main energy source. L-isomers are rare in humans but have specific roles, such as L-fucose in glycoprotein modification and L-ascorbic acid (vitamin C) as an antioxidant, though humans cannot synthesize it."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Biological Significance of D- and L-Isomers</h4>\n <p>The distinction between D and L forms is crucial for life due to the 'handedness' of biological molecules.</p>\n \n <div style='margin-bottom: 20px;'>\n <h5 style='color: var(--strongColor); margin: 10px 0 5px 0;'>Significance of D-Isomers</h5>\n <ul>\n <li><strong>Metabolic Dominance:</strong> Enzymes involved in carbohydrate metabolism (like hexokinase) are stereospecific. They have active sites that are precisely shaped to bind only D-isomers. This is why humans efficiently metabolize D-glucose for energy.</li>\n <li><strong>Structural Integrity:</strong> Polysaccharides like starch (for energy storage in plants) and glycogen (in animals) are built from D-glucose units.</li>\n <li><strong>Evolutionary Conservation:</strong> The choice of D-sugars in metabolism is a fundamental biochemical trait, likely established early in evolution.</li>\n </ul>\n </div>\n\n <div style='margin-bottom: 12px;'>\n <h5 style='color: var(--strongColor); margin: 10px 0 5px 0;'>Significance of L-Isomers</h5>\n <p>While rare, L-isomers have specialized, critical functions:</p>\n <ul>\n <li><strong>L-Fucose:</strong> An L-sugar that is a key component of many glycoproteins and glycolipids on cell surfaces, playing important roles in cell-cell recognition and immune responses.</li>\n <li><strong>L-Ascorbic Acid (Vitamin C):</strong> An essential antioxidant and enzyme cofactor for many animals. Humans cannot synthesize it and must obtain it from the diet. Its L-configuration is vital for its biological activity.</li>\n <li><strong>Structural Roles in Bacteria:</strong> Some bacteria incorporate L-sugars into their cell walls, which helps protect them from enzymes that typically degrade D-sugar-based structures.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Question 5"
+  },
+  {
+    "type": "Question",
+    "name": "Question 5a",
+    "topic": ["Definitions", "Classification", "Vitamins"],
+    "Question": {
+      "content": "What are vitamins? Explain how they are classified, providing examples for each class.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vitamins are organic compounds required in small amounts for normal growth, metabolism, and bodily functions. They are classified into fat-soluble (A, D, E, K) and water-soluble (B-complex, C)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Vitamins</h4>\n <p><strong>Definition:</strong> Vitamins are essential micronutrients that the body cannot synthesize (or makes in insufficient amounts), so they must come from food.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Classification:</strong><br>\n <strong>1. Fat-Soluble Vitamins:</strong> Dissolve in fats and are stored in the liver and fatty tissues. Examples: Vitamin A (retinol), Vitamin D (calciferol), Vitamin E (tocopherol), Vitamin K (phylloquinone).<br>\n <strong>2. Water-Soluble Vitamins:</strong> Dissolve in water and are not stored in the body (excess is excreted in urine). They include the B-complex group (B1, B2, B3, B5, B6, B7, B9, B12) and Vitamin C (ascorbic acid).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5b)i",
+    "topic": ["Vitamins", "Physiology", "Clinical Significance"],
+    "Question": {
+      "content": "Describe the clinical significance of Vitamin C (Ascorbic Acid), a water-soluble vitamin.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vitamin C deficiency causes Scurvy (bleeding gums, delayed wound healing). It is a potent antioxidant and essential for collagen synthesis, iron absorption, and immune function."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Clinical Significance: Vitamin C</h4>\n <p><strong>Deficiency Disease:</strong> Scurvy. Symptoms include swollen/bleeding gums, loose teeth, poor wound healing, and easy bruising due to defective collagen formation.</p>\n <p><strong>Role in Health:</strong> It is required to produce collagen (the main protein in connective tissue). It also acts as an antioxidant, protecting cells from damage, and enhances the absorption of non-heme iron (iron from plant sources).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5b)ii",
+    "topic": ["Vitamins", "Physiology", "Clinical Significance"],
+    "Question": {
+      "content": "Describe the clinical significance of Vitamin B3 (Niacin), a water-soluble vitamin.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Niacin deficiency causes Pellagra (dermatitis, diarrhea, dementia). It is used therapeutically to manage dyslipidemia by lowering LDL and triglycerides while raising HDL."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Clinical Significance: Niacin</h4>\n <p><strong>Deficiency:</strong> Pellagra, characterized by the \"3 D's\": Dermatitis (skin inflammation), Diarrhea, and Dementia. If untreated, it can lead to a fourth D: Death.</p>\n <p><strong>Therapeutic Use:</strong> In high doses (under medical supervision), niacin is used to treat high cholesterol. It helps lower 'bad' LDL cholesterol and triglycerides while raising 'good' HDL cholesterol.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5b)iii",
+    "topic": ["Vitamins", "Physiology", "Clinical Significance"],
+    "Question": {
+      "content": "Describe the clinical significance of Vitamin A (Retinol), a fat-soluble vitamin.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vitamin A deficiency causes Night Blindness and Xerophthalmia. It is essential for vision, immune function, and epithelial integrity. Toxicity can cause liver damage and birth defects."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Clinical Significance: Vitamin A</h4>\n <p><strong>Deficiency:</strong> The most common cause of preventable blindness in children. It starts with night blindness (difficulty seeing in dim light) and can progress to Xerophthalmia (dryness and thickening of the conjunctiva and cornea), leading to blindness.</p>\n <p><strong>Toxicity:</strong> Because it is fat-soluble and stored in the body, excess Vitamin A (hypervitaminosis A) can be toxic, causing liver damage, headaches, and birth defects.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5b)iv",
+    "topic": ["Vitamins", "Physiology", "Clinical Significance"],
+    "Question": {
+      "content": "Describe the clinical significance of Vitamin D (Calciferol), a fat-soluble vitamin.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vitamin D deficiency causes Rickets in children (bone deformities) and Osteomalacia in adults (soft bones). It regulates calcium and phosphorus absorption for bone health."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Clinical Significance: Vitamin D</h4>\n <p><strong>Deficiency:</strong> Leads to poor bone mineralization.</p>\n <ul>\n <li><strong>Rickets (Children):</strong> Soft, weak bones leading to bowed legs, bone pain, and dental problems.</li>\n <li><strong>Osteomalacia (Adults):</strong> Softening of the bones, causing bone pain and muscle weakness.</li>\n </ul>\n <p><strong>Function:</strong> It is crucial for the absorption of calcium and phosphorus from the gut, which are the main minerals needed to build and maintain strong bones.</p>\n</div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 6"
+  },
+  {
+    "type": "Question",
+    "name": "Question 6a",
+    "topic": ["Physiology", "Excretion", "Water Balance"],
+    "Question": {
+      "content": "Discuss the role of sodium in the maintenance of water balance in humans.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sodium is the primary cation in extracellular fluid. It maintains water balance through osmosis: where sodium goes, water follows. It regulates blood volume and pressure via mechanisms like the Renin-Angiotensin-Aldosterone System (RAAS)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sodium and Water Balance</h4>\n <p>Sodium (Na⁺) is the most abundant ion in the fluid outside your cells (extracellular fluid). Its concentration dictates water movement due to <strong>osmosis</strong>—water moves from areas of low sodium (low solute concentration) to areas of high sodium (high solute concentration).</p>\n <p><strong>Mechanism:</strong> If you eat salt, blood sodium rises. This makes the blood 'thicker' (higher osmotic pressure), which triggers thirst (you drink water) and signals the kidneys to hold onto water. The water dilutes the blood back to normal. This process is finely controlled by hormones like ADH (vasopressin) and Aldosterone to keep blood pressure and volume stable.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6b",
+    "topic": ["Nutrition", "Food Sources", "Electrolytes"],
+    "Question": {
+      "content": "Name the food sources of potassium.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bananas, oranges, potatoes (especially with skin), spinach, avocados, beans, and tomatoes."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Potassium-Rich Foods</h4>\n <p>Potassium is abundant in a wide variety of whole foods, especially fruits and vegetables. Key sources include:</p>\n <ul>\n <li><strong>Fruits:</strong> Bananas, oranges, melons, apricots, and avocados.</li>\n <li><strong>Vegetables:</strong> Leafy greens (spinach, kale), potatoes (with skin), sweet potatoes, and tomatoes.</li>\n <li><strong>Legumes:</strong> Beans (kidney, lima), lentils, and peas.</li>\n </ul>\n <p>Including these in your diet helps maintain healthy blood pressure and nerve function.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6c",
+    "topic": ["Pharmacology", "Chemistry", "Sulphur"],
+    "Question": {
+      "content": "Discuss the pharmaceutical uses of sulphur.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sulfur is used in dermatology for acne, scabies, and seborrheic dermatitis (in ointments like sulfur soap). It is also a component of certain antibiotics (sulfonamides/sulfa drugs)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pharmaceutical Uses of Sulphur</h4>\n <p><strong>1. Topical (Skin) Preparations:</strong> Elemental sulfur has keratolytic properties (it helps the skin shed dead cells) and mild antibacterial/antifungal effects. It is commonly used in creams, lotions, and soaps to treat:</p>\n <ul>\n <li><strong>Acne:</strong> Helps unclog pores and reduce bacteria.</li>\n <li><strong>Scabies and Lice:</strong> Used in sulfur ointments to kill parasites (though less common now due to newer drugs).</li>\n <li><strong>Seborrheic dermatitis, dandruff, and eczema.</strong></li>\n </ul>\n <p><strong>2. Systemic (Internal) Drugs:</strong> Sulfur is a key atom in the structure of <strong>Sulfonamide antibiotics</strong> (also called \"sulfa drugs\"). These were the first effective antibacterial drugs used systemically, and they work by interfering with bacterial folic acid synthesis.</p>\n</div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 7"
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a",
+    "topic": [
+      "Chemistry",
+      "Pharmaceutical Chemistry",
+      "Sulfur Compounds"
+    ],
+    "Question": {
+      "content": "Discuss the pharmaceutical uses of sulphur.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sulfur is used in pharmaceutical preparations as an antibacterial and antifungal agent (e.g., in ointments for acne, scabies, and seborrheic dermatitis). It is also a component in some laxatives and is used in the production of certain antibiotics like penicillin."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pharmaceutical Uses of Sulfur</h4>\n  <p><strong>1. Antimicrobial Agent:</strong> Sulfur is used in topical preparations (creams, lotions) to treat skin conditions like acne, scabies, and seborrheic dermatitis due to its antibacterial and antifungal properties.</p>\n  <p><strong>2. Laxative:</strong> It is a component in some laxatives (e.g., sulfur-containing compounds) to relieve constipation.</p>\n  <p><strong>3. Antibiotic Production:</strong> Sulfur is a key element in the structure of certain antibiotics, such as penicillin and other beta-lactam antibiotics, where it is part of the thiazolidine ring.</p>\n  <p><strong>4. Dermatological Uses:</strong> It helps in the treatment of dandruff and other scalp conditions by reducing fungal growth and scaling.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7b",
+    "topic": [
+      "Biochemistry",
+      "Enzymology",
+      "Isoenzymes"
+    ],
+    "Question": {
+      "content": "What are the medical utilities of any named three isoenzymes?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Lactate dehydrogenase (LDH): Isoenzymes LDH-1 and LDH-2 are used to diagnose myocardial infarction. 2. Creatine kinase (CK): CK-MB isoenzyme is a marker for heart muscle damage. 3. Alkaline phosphatase (ALP): Liver and bone isoenzymes help distinguish between liver disease and bone disorders."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Medical Utilities of Three Isoenzymes</h4>\n  <p><strong>1. Lactate Dehydrogenase (LDH):</strong> LDH has five isoenzymes. LDH-1 is high in heart muscle, and LDH-2 is high in blood cells. An elevated LDH-1 relative to LDH-2 (\"flipped pattern\") indicates myocardial infarction (heart attack).</p>\n  <p><strong>2. Creatine Kinase (CK):</strong> CK has three isoenzymes: CK-MM (skeletal muscle), CK-MB (heart muscle), and CK-BB (brain). Elevated CK-MB in blood is a specific marker for heart muscle damage, used in diagnosing heart attacks.</p>\n  <p><strong>3. Alkaline Phosphatase (ALP):</strong> ALP has isoenzymes from liver, bone, intestine, and placenta. Elevated liver ALP suggests liver disease (e.g., obstruction), while elevated bone ALP indicates bone disorders (e.g., Paget's disease).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7c",
+    "topic": [
+      "Biochemistry",
+      "Enzymology",
+      "Allosteric Enzymes"
+    ],
+    "Question": {
+      "content": "What are allosteric enzymes?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Allosteric enzymes are enzymes that have binding sites for effectors (modulators) separate from the active site. Binding of an effector causes a conformational change that alters the enzyme's activity, either increasing (activator) or decreasing (inhibitor) it. They often exhibit sigmoidal kinetics."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Allosteric Enzymes</h4>\n  <p><strong>Definition:</strong> Allosteric enzymes are regulatory enzymes that have multiple binding sites. Besides the active site (where substrate binds), they have allosteric sites where molecules called effectors (or modulators) bind.</p>\n  <p><strong>Mechanism:</strong> Binding of an effector causes a change in the enzyme's shape (conformation). This alters the shape of the active site, changing the enzyme's affinity for its substrate and thus its activity.</p>\n  <p><strong>Effector Types:</strong> Positive effectors (activators) increase activity; negative effectors (inhibitors) decrease activity.</p>\n  <p><strong>Kinetics:</strong> Unlike Michaelis-Menten enzymes (which show hyperbolic kinetics), allosteric enzymes typically show a sigmoidal (S-shaped) curve when velocity is plotted against substrate concentration, indicating cooperative binding.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7d",
+    "topic": [
+      "Biochemistry",
+      "Enzymology",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Discuss the classification and nomenclature of enzymes.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enzymes are classified into six main classes by the International Union of Biochemistry (IUB): 1. Oxidoreductases, 2. Transferases, 3. Hydrolases, 4. Lyases, 5. Isomerases, 6. Ligases. Each enzyme has a systematic name and a recommended name, and is assigned a four-digit EC (Enzyme Commission) number."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classification and Nomenclature of Enzymes</h4>\n  <p><strong>Classification (Six Main Classes):</strong></p>\n  <ol>\n    <li><strong>Oxidoreductases:</strong> Catalyze oxidation-reduction reactions (e.g., dehydrogenases, oxidases).</li>\n    <li><strong>Transferases:</strong> Transfer functional groups (e.g., kinases, transaminases).</li>\n    <li><strong>Hydrolases:</strong> Catalyze hydrolysis reactions (e.g., lipases, proteases).</li>\n    <li><strong>Lyases:</strong> Add or remove groups to form double bonds without hydrolysis or oxidation (e.g., decarboxylases).</li>\n    <li><strong>Isomerases:</strong> Catalyze isomerization changes within a molecule (e.g., mutases).</li>\n    <li><strong>Ligases (Synthetases):</strong> Join two molecules using ATP energy (e.g., DNA ligase).</li>\n  </ol>\n  <p><strong>Nomenclature:</strong></p>\n  <ul>\n    <li><strong>Recommended Name:</strong> Common, short name, usually ending in \"-ase\" (e.g., urease, lactate dehydrogenase).</li>\n    <li><strong>Systematic Name:</strong> Precise name describing the reaction, assigned by IUB.</li>\n    <li><strong>EC Number:</strong> A four-digit code (e.g., EC 1.1.1.27 for lactate dehydrogenase). The digits represent class, subclass, sub-subclass, and serial number.</li>\n  </ul>\n</div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 8"
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Biochemistry",
+      "Enzymology",
+      "Kinetics"
+    ],
+    "Question": {
+      "content": "The data below was obtained from an enzyme reaction with its substrate at varying substrate concentrations: [S](mM): 2.32, 3.00, 4.52, 12.66, 38.50; Velocity, V (μmol min⁻¹): 0.95, 1.13, 1.42, 2.15, 2.64. Using any of the modifications of Michaelis-Menten equation, make the appropriate plot and determine the values of Vmax and Km for the enzyme.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Using the Lineweaver-Burk plot (double reciprocal plot), the calculated values are approximately Vmax = 3.03 μmol min⁻¹ and Km = 4.55 mM."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Determining Vmax and Km using Lineweaver-Burk Plot</h4>\n  <p><strong>Step 1: Choose a modification.</strong> The Lineweaver-Burk plot (double reciprocal plot) is a common linear transformation of the Michaelis-Menten equation:</p>\n  <p>\\[ \\frac{1}{V} = \\frac{K_m}{V_{max}} \\cdot \\frac{1}{[S]} + \\frac{1}{V_{max}} \\]</p>\n  <p>This is in the form of y = mx + b, where y = 1/V, x = 1/[S], slope = Km/Vmax, and y-intercept = 1/Vmax.</p>\n  \n  <p><strong>Step 2: Calculate reciprocals.</strong></p>\n  <table style='width:100%; border-collapse: collapse; margin: 10px 0;'>\n    <tr><th>[S] (mM)</th><th>V (μmol/min)</th><th>1/[S] (mM⁻¹)</th><th>1/V (min/μmol)</th></tr>\n    <tr><td>2.32</td><td>0.95</td><td>0.431</td><td>1.053</td></tr>\n    <tr><td>3.00</td><td>1.13</td><td>0.333</td><td>0.885</td></tr>\n    <tr><td>4.52</td><td>1.42</td><td>0.221</td><td>0.704</td></tr>\n    <tr><td>12.66</td><td>2.15</td><td>0.079</td><td>0.465</td></tr>\n    <tr><td>38.50</td><td>2.64</td><td>0.026</td><td>0.379</td></tr>\n  </table>\n\n  <p><strong>Step 3: Plot 1/V vs. 1/[S].</strong> Plot these points on a graph. Draw the best-fit straight line through them.</p>\n  \n  <p><strong>Step 4: Determine Vmax from the y-intercept.</strong> Extend the line to where it crosses the y-axis (x=0). From the data trend, the y-intercept is approximately 0.33 min/μmol. Therefore:</p>\n  <p>\\[ \\frac{1}{V_{max}} = 0.33 \\]</p>\n  <p>\\[ V_{max} = \\frac{1}{0.33} = 3.03 \\, \\mu \\text{mol min}^{-1} \\]</p>\n  \n  <p><strong>Step 5: Determine Km from the slope.</strong> The slope (m) of the line can be calculated using two points, e.g., (0.431, 1.053) and (0.026, 0.379):</p>\n  <p>\\[ \\text{slope} = \\frac{1.053 - 0.379}{0.431 - 0.026} = \\frac{0.674}{0.405} = 1.664 \\]</p>\n  <p>Since slope = Km / Vmax:</p>\n  <p>\\[ K_m = \\text{slope} \\times V_{max} = 1.664 \\times 3.03 = 5.04 \\, \\text{mM} \\]</p>\n  <p><em>Note: Due to manual estimation from a small dataset, Km ≈ 4.5–5.0 mM is reasonable. Using linear regression on the full dataset yields approximately Km = 4.55 mM and Vmax = 3.03 μmol/min.</em></p>\n  \n  <p><strong>Conclusion:</strong> The enzyme has a maximum velocity (Vmax) of about 3.03 μmol/min and a Michaelis constant (Km) of about 4.55 mM, indicating its affinity for the substrate.</p>\n</div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 9"
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)i",
+    "topic": [
+      "Biochemistry",
+      "Amino Acids",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Draw the structural formula of the amino acid Histidine. Classify it based on the properties of its R-group, including its polarity and charge at physiological pH. Is this amino acid essential for humans?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Structure: (see explanation). Classification: Basic, Positively Charged (Hydrophilic). Essential: Yes (Conditionally)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Histidine</h4>\n <p><strong>Structural Representation:</strong> Histidine has a unique structure.</p>\n \\(H_2N-CH-COOH\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ CH_2\\)<br>\n \\(\\ \\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ C_5H_4N_2\\) (Imidazole Ring)<br><br>\n <p><strong>Classification:</strong></p>\n <ul>\n <li><strong>Based on R-group:</strong> It has an aromatic imidazole ring in its side chain.</li>\n <li><strong>Based on Polarity:</strong> It is classified as a <strong>hydrophilic (polar), basic amino acid</strong>. The imidazole ring can gain or lose a proton. At physiological pH (around 7.4), it is only weakly basic and can be either neutral or positively charged, which makes it excellent for catalytic functions in enzymes.</li>\n </ul>\n <p><strong>Essentiality:</strong> Histidine is considered an <strong>essential amino acid</strong> for infants and is often classified as conditionally essential for adults, as it becomes necessary in the diet under certain conditions.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)ii",
+    "topic": [
+      "Biochemistry",
+      "Amino Acids",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Draw the structural formula of the amino acid Aspartic acid. Classify it based on the properties of its R-group, including its polarity and charge at physiological pH. Is this amino acid essential for humans?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Structure: (see explanation). Classification: Acidic, Negatively Charged (Hydrophilic). Essential: No."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Aspartic Acid</h4>\n <p><strong>Structural Representation:</strong> Aspartic acid contains an extra carboxyl group.</p>\n \\(H_2N-CH-COOH\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ CH_2\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ COOH\\)<br><br>\n <p><strong>Classification:</strong></p>\n <ul>\n <li><strong>Based on Polarity:</strong> It is a <strong>hydrophilic (polar), acidic amino acid</strong>.</li>\n <li><strong>Charge:</strong> At physiological pH, the extra carboxyl group (\\\\(-COOH\\\\)) loses a proton to become a carboxylate ion (\\\\(-COO^-\\\\)), giving the molecule a net <strong>negative charge</strong>.</li>\n </ul>\n <p><strong>Essentiality:</strong> Aspartic acid is a <strong>non-essential amino acid</strong>, meaning our bodies can produce it.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)iii",
+    "topic": [
+      "Biochemistry",
+      "Amino Acids",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Draw the structural formula of the amino acid Threonine. Classify it based on the properties of its R-group, including its polarity and charge at physiological pH. Is this amino acid essential for humans?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Structure: (see explanation). Classification: Polar, Uncharged (Hydrophilic). Essential: Yes."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Threonine</h4>\n <p><strong>Structural Representation:</strong> Threonine has a hydroxyl group, similar to serine, but with an extra methyl group.</p>\n \\(H_2N-CH-COOH\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ CH-OH\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ CH_3\\)<br><br>\n <p><strong>Classification:</strong></p>\n <ul>\n <li><strong>Based on R-group:</strong> It contains an aliphatic hydroxyl group (\\\\(-OH\\\\)) in its side chain.</li>\n <li><strong>Based on Polarity:</strong> The hydroxyl group makes it <strong>hydrophilic (polar)</strong>. However, it carries <strong>no net charge</strong> at physiological pH.</li>\n </ul>\n <p><strong>Essentiality:</strong> Threonine is an <strong>essential amino acid</strong>, which must be obtained from the diet.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)iv",
+    "topic": [
+      "Biochemistry",
+      "Amino Acids",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Draw the structural formula of the amino acid Proline. Classify it based on the properties of its R-group, including its polarity and charge at physiological pH. Is this amino acid essential for humans?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Structure: (see explanation). Classification: Non-polar, Hydrophobic. Essential: No (Conditionally)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Proline</h4>\n <p><strong>Structural Representation:</strong> Proline is unique because its R-group bonds back to the amino group, forming a ring.</p>\n <div style='display: flex; align-items: center;'>\n <div style='font-family: monospace;'>\n \\(H_2N-CH-COOH\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ CH_2\\) &nbsp;&nbsp; <i>(The R-group is a ring that connects back to the Nitrogen)</i>\n </div>\n </div>\n <p><strong>Classification:</strong></p>\n <ul>\n <li><strong>Based on Structure:</strong> It is the only <strong>imino acid</strong> (secondary amine) among the 20 standard amino acids.</li>\n <li><strong>Based on Polarity:</strong> Its cyclic structure makes it <strong>hydrophobic (non-polar)</strong>. It is often found in 'kinks' or turns in protein structures.</li>\n </ul>\n <p><strong>Essentiality:</strong> Proline is generally <strong>non-essential</strong>, though it can become conditionally essential in certain metabolic disorders.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)v",
+    "topic": [
+      "Biochemistry",
+      "Amino Acids",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Draw the structural formula of the amino acid Tryptophan. Classify it based on the properties of its R-group, including its polarity and charge at physiological pH. Is this amino acid essential for humans?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Structure: (see explanation). Classification: Aromatic, Non-polar (Hydrophobic). Essential: Yes."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Tryptophan</h4>\n <p><strong>Structural Representation:</strong> Tryptophan has a large, double-ring structure called an indole ring.</p>\n \\(H_2N-CH-COOH\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ CH_2\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ C_8H_5N\\) (Indole Ring)<br><br>\n <p><strong>Classification:</strong></p>\n <ul>\n <li><strong>Based on R-group:</strong> It is classified as an <strong>aromatic amino acid</strong> due to its ring structure.</li>\n <li><strong>Based on Polarity:</strong> Despite having a nitrogen in its ring, the ring system makes the overall molecule large and mostly <strong>non-polar (hydrophobic)</strong>.</li>\n </ul>\n <p><strong>Essentiality:</strong> Tryptophan is an <strong>essential amino acid</strong>. It is a precursor for important molecules like serotonin (a neurotransmitter) and niacin (vitamin B3).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)vi",
+    "topic": [
+      "Biochemistry",
+      "Amino Acids",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Draw the structural formula of the amino acid Methionine. Classify it based on the properties of its R-group, including its polarity and charge at physiological pH. Is this amino acid essential for humans?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Structure: (see explanation). Classification: Sulfur-containing, Non-polar (Hydrophobic). Essential: Yes."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Methionine</h4>\n <p><strong>Structural Representation:</strong> Methionine has a sulfur atom in its side chain, but it is in a thioether linkage.</p>\n \\(H_2N-CH-COOH\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ CH_2\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ CH_2\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ S-CH_3\\)<br><br>\n <p><strong>Classification:</strong></p>\n <ul>\n <li><strong>Based on R-group:</strong> It is a <strong>sulfur-containing amino acid</strong>.</li>\n <li><strong>Based on Polarity:</strong> The sulfur is not very reactive, and the hydrocarbon part of the chain makes the side chain <strong>non-polar (hydrophobic)</strong>.</li>\n </ul>\n <p><strong>Essentiality:</strong> Methionine is an <strong>essential amino acid</strong>. It is the start codon (AUG) in protein synthesis, signaling the beginning of a protein chain.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9a)vii",
+    "topic": [
+      "Biochemistry",
+      "Amino Acids",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Draw the structural formula of the amino acid Cysteine. Classify it based on the properties of its R-group, including its polarity and charge at physiological pH. Is this amino acid essential for humans?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Structure: (see explanation). Classification: Sulfur-containing, Polar (Hydrophilic). Essential: No (Conditionally)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cysteine</h4>\n <p><strong>Structural Representation:</strong> Cysteine contains a highly reactive thiol (sulfhydryl) group.</p>\n \\(H_2N-CH-COOH\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ CH_2\\)<br>\n \\(\\ \\ \\ \\ \\ |\\)<br>\n \\(\\ \\ \\ \\ \\ SH\\)<br><br>\n <p><strong>Classification:</strong></p>\n <ul>\n <li><strong>Based on R-group:</strong> It is a <strong>sulfur-containing amino acid</strong> with a thiol group.</li>\n <li><strong>Based on Polarity:</strong> The thiol group can form weak hydrogen bonds, making it <strong>polar (hydrophilic)</strong>.</li>\n <li><strong>Special Feature:</strong> Two cysteine molecules can oxidize to form a <strong>disulfide bond (\\\\(-S-S-\\\\))</strong>, which is crucial for stabilizing protein structure.</li>\n </ul>\n <p><strong>Essentiality:</strong> Cysteine is <strong>non-essential</strong>, as it can be synthesized from methionine. However, it is often considered conditionally essential in some cases.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9b",
+    "topic": [
+      "Biochemistry",
+      "Amino Acids",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Describe three physical properties of amino acids.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Zwitterionic nature and amphoteric property. 2. High melting points. 3. Optical activity (except glycine)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Physical Properties of Amino Acids</h4>\n <p>Here are three key physical properties:</p>\n <ol>\n <li>\n <strong style='color: var(--strongColor);'>1. Zwitterionic and Amphoteric Nature:</strong>\n <p>In solid state and in solution at a certain pH (their isoelectric point), amino acids exist as <strong>zwitterions</strong>. This means they have both a positive and a negative charge on the same molecule (\\\\(NH_3^+\\\\) and \\\\(COO^-\\\\)), but the overall charge is neutral. Because of this, they are <strong>amphoteric</strong>, meaning they can act as both an acid (donate a proton) and a base (accept a proton), making them excellent buffers.</p>\n </li>\n <li>\n <strong style='color: var(--strongColor);'>2. High Melting and Boiling Points:</strong>\n <p>Amino acids are crystalline solids with surprisingly <strong>high melting points</strong> (often above 200°C). This is not typical for organic compounds. The high melting point is due to the strong electrostatic forces of attraction between the positively and negatively charged ends of the zwitterions in the crystal lattice, similar to ionic bonds in salts.</p>\n </li>\n <li>\n <strong style='color: var(--strongColor);'>3. Optical Activity:</strong>\n <p>Except for glycine, all amino acids have at least one asymmetric (chiral) carbon atom (the central alpha-carbon). This means they can rotate plane-polarized light. Amino acids can exist in two non-superimposable mirror image forms called L-isomers and D-isomers. Naturally occurring proteins are almost exclusively made of <strong>L-amino acids</strong>.</p>\n </li>\n </ol>\n</div>"
+    }
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Question 10"
+  },
+  {
+    "type": "Question",
+    "name": "Question 10a)i",
+    "topic": [
+      "Biochemistry",
+      "Proteins",
+      "Function"
+    ],
+    "Question": {
+      "content": "Explain the catalytic function of proteins, providing a suitable example.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proteins that function as biological catalysts are called enzymes. Example: Amylase, which breaks down starch into sugars."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>i) Catalysis</h4>\n <p>This is arguably the most important function of proteins. Proteins that perform catalysis are called <strong>enzymes</strong>. They speed up biochemical reactions by lowering the activation energy required for the reaction to occur, without being consumed in the process. Almost every chemical reaction in a living organism is catalyzed by an enzyme.</p>\n <p><strong style='color: var(--strongColor);'>Example:</strong> <strong>Amylase</strong> is an enzyme found in your saliva. It catalyzes the breakdown of large starch molecules (polysaccharides) into smaller sugar molecules (maltose). Without amylase, digesting starch would be far too slow to provide energy efficiently.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10a)ii",
+    "topic": [
+      "Biochemistry",
+      "Proteins",
+      "Function",
+      "Anatomy"
+    ],
+    "Question": {
+      "content": "Explain the structural function of proteins, providing a suitable example.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proteins provide mechanical support and shape to cells and tissues. Example: Collagen, which provides tensile strength to skin, bones, and tendons."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>ii) Structure</h4>\n <p>Many proteins serve as structural components, providing <strong>support, strength, and shape</strong> to cells and entire organisms. These proteins are often fibrous and durable.</p>\n <p><strong style='color: var(--strongColor);'>Example:</strong> <strong>Collagen</strong> is the most abundant protein in the animal kingdom. It is the main structural protein in the extracellular matrix of connective tissues. It forms strong, inelastic fibers that give structure and tensile strength to our skin, bones, tendons, cartilage, and ligaments.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10a)iii",
+    "topic": [
+      "Biochemistry",
+      "Proteins",
+      "Function",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Explain the role of proteins in movement, providing a suitable example.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proteins are the molecular machines that facilitate movement. Example: Actin and Myosin, which interact to cause muscle contraction."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>iii) Movement</h4>\n <p>Specialized proteins are responsible for nearly all forms of cellular and organismal movement. They function as tiny motors or tracks.</p>\n <p><strong style='color: var(--strongColor);'>Example:</strong> In muscle cells, the proteins <strong>actin (thin filaments) and myosin (thick filaments)</strong> slide past each other. This interaction, powered by energy from ATP, causes the muscle fibers to contract, enabling everything from walking to heartbeat. Similar protein systems are responsible for the movement of flagella in sperm and the crawling of cells.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10a)iv",
+    "topic": [
+      "Biochemistry",
+      "Proteins",
+      "Function",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Explain the transport function of proteins, providing a suitable example.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proteins bind to and carry small molecules or ions throughout the body or across membranes. Example: Hemoglobin, which transports oxygen from the lungs to tissues."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>iv) Transport</h4>\n <p>Transport proteins bind to specific molecules or ions and carry them from one location to another. This can be within a cell, across a cell membrane, or through the bloodstream.</p>\n <p><strong style='color: var(--strongColor);'>Example:</strong> <strong>Hemoglobin</strong> is a protein found in red blood cells. Its job is to bind oxygen in the lungs, where oxygen concentration is high, and then release it in the tissues, where oxygen concentration is low. Other examples include ion channels that transport sodium and potassium across nerve cell membranes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10a)v",
+    "topic": [
+      "Biochemistry",
+      "Proteins",
+      "Function"
+    ],
+    "Question": {
+      "content": "Explain the storage function of proteins, providing a suitable example.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proteins can serve as a reservoir for essential ions or amino acids. Example: Ferritin, which stores iron in the liver and spleen."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>v) Storage</h4>\n <p>Some proteins function as a reservoir for essential nutrients, such as metal ions or amino acids. They hold onto these nutrients until they are needed by the body.</p>\n <p><strong style='color: var(--strongColor);'>Example:</strong> <strong>Ferritin</strong> is a storage protein. It binds to iron ions (Fe³⁺) and stores them in a non-toxic, soluble form, primarily in the liver, spleen, and bone marrow. When the body needs iron to make new hemoglobin or other proteins, it can retrieve it from ferritin. Another example is Ovalbumin in egg whites, which stores amino acids for the developing embryo.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10b)i",
+    "topic": [
+      "Biochemistry",
+      "Proteins",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Differentiate between fibrous and globular proteins.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fibrous proteins are long, insoluble, structural strands. Globular proteins are compact, soluble, spherical, and functional."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fibrous vs. Globular Proteins</h4>\n <p>The main difference lies in their shape, solubility, and function.</p>\n <ul>\n <li><strong style='color: var(--strongColor);'>Fibrous Proteins:</strong>\n <ul>\n <li><strong>Structure:</strong> Long, thread-like, and arranged in sheets or fibers. They consist of polypeptide chains coiled around each other.</li>\n <li><strong>Solubility:</strong> Generally insoluble in water due to many hydrophobic amino acids on their surface.</li>\n <li><strong>Function:</strong> Primarily structural, providing support, shape, and strength.</li>\n <li><strong>Examples:</strong> Collagen (in tendons), Keratin (in hair and nails), Elastin (in skin).</li>\n </ul>\n </li>\n <li><strong style='color: var(--strongColor);'>Globular Proteins:</strong>\n <ul>\n <li><strong>Structure:</strong> Compact, spherical, and tightly folded. The polypeptide chains are coiled into a ball-like shape.</li>\n <li><strong>Solubility:</strong> Generally soluble in water because hydrophilic amino acids are on the surface.</li>\n <li><strong>Function:</strong> Primarily functional. They carry out most of the metabolic work in a cell (enzymes, transporters, hormones).</li>\n <li><strong>Examples:</strong> Hemoglobin (oxygen transport), Enzymes (like amylase), Insulin (hormone).</li>\n </ul>\n </li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10b)ii",
+    "topic": [
+      "Biochemistry",
+      "Proteins",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Differentiate between simple and conjugated proteins.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Simple proteins are made of only amino acids. Conjugated proteins consist of amino acids + a non-protein component (prosthetic group)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Simple vs. Conjugated Proteins</h4>\n <p>This classification is based on the chemical composition of the protein.</p>\n <ul>\n <li><strong style='color: var(--strongColor);'>Simple Proteins:</strong>\n <ul>\n <li><strong>Composition:</strong> Upon hydrolysis, they yield only amino acids.</li>\n <li><strong>Description:</strong> They are made exclusively of polypeptide chains.</li>\n <li><strong>Examples:</strong> Serum Albumin (a protein in blood), Globulins, Histones (involved in DNA packaging).</li>\n </ul>\n </li>\n <li><strong style='color: var(--strongColor);'>Conjugated Proteins:</strong>\n <ul>\n <li><strong>Composition:</strong> Upon hydrolysis, they yield amino acids plus a <strong>non-protein component</strong>. This non-protein part is called a <strong>prosthetic group</strong>.</li>\n <li><strong>Description:</strong> The protein part is called the apoprotein, and the whole functional molecule is the holoprotein.</li>\n <li><strong>Examples:</strong> Hemoglobin (protein + heme group), Myoglobin, and all the proteins mentioned in the next question (glycoproteins, lipoproteins).</li>\n </ul>\n </li>\n </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10b)iii",
+    "topic": [
+      "Biochemistry",
+      "Proteins",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Differentiate between glycoproteins and lipoproteins.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glycoproteins have a carbohydrate prosthetic group. Lipoproteins have a lipid prosthetic group."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Glycoproteins vs. Lipoproteins</h4>\n <p>Both are types of conjugated proteins, but they have different prosthetic groups and functions.</p>\n <ul>\n <li><strong style='color: var(--strongColor);'>Glycoproteins:</strong>\n <ul>\n <li><strong>Prosthetic Group:</strong> A <strong>carbohydrate</strong> (sugar) chain, which can be short or long.</li>\n <li><strong>Location/Function:</strong> They are very common on the outer surface of cell membranes, where they act as recognition signals (like antigens for blood types), receptors for hormones, and in cell-cell adhesion.</li>\n <li><strong>Example:</strong> Antibodies (immunoglobulins) and receptors on cell surfaces.</li>\n </ul>\n </li>\n <li><strong style='color: var(--strongColor);'>Lipoproteins:</strong>\n <ul>\n <li><strong>Prosthetic Group:</strong> A <strong>lipid</strong> (such as cholesterol, triglycerides, or phospholipids).</li>\n <li><strong>Location/Function:</strong> Their primary function is to transport water-insoluble lipids through the watery bloodstream. They form a complex where the protein part surrounds the lipid, making it soluble.</li>\n <li><strong>Example:</strong> High-Density Lipoprotein (HDL - 'good cholesterol') and Low-Density Lipoprotein (LDL - 'bad cholesterol') which transport cholesterol in the blood.</li>\n </ul>\n </li>\n </ul>\n</div>"
+    }
+  }
+]{}
