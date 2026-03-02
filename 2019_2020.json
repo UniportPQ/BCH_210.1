@@ -384,8 +384,9 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "string",
-      "content": "D-glucose, with 16 stereoisomers"
+      "type": "img",
+      "content":"https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/BCH_210.1/2019_2020/n7aa.png",
+      "alt": "D-glucose, with 16 stereoisomers"
     },
     "Explanation": {
       "type": "string",
@@ -447,8 +448,9 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "string",
-      "content": "D-glyceraldehyde: CHO at top, H on left of C2, OH on right of C2, CH2OH at bottom. L-glyceraldehyde: CHO at top, OH on left of C2, H on right of C2, CH2OH at bottom."
+      "type": "img",
+      "content":"https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/BCH_210.1/2019_2020/n7da.jpg",
+      "alt": "D-glyceraldehyde: CHO at top, H on left of C2, OH on right of C2, CH2OH at bottom. L-glyceraldehyde: CHO at top, OH on left of C2, H on right of C2, CH2OH at bottom."
     },
     "Explanation": {
       "type": "string",
